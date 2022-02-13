@@ -1,0 +1,724 @@
+Sep and everybody's wise to be on the call. This is not as much about what are the lending guidelines and
+what's the down payment requirement and what's the DCR and what how much money do | need to have
+on my balance sheet? Those are all important things you need to know at the technical level they get a
+deal done. But the bigger picture is, is somebody's going to shut off the air to this equity jump house and
+am | going to be caught holding the bag? You know? In other words, when the music stops to mix
+metaphors, will | have a chair? And when you hear somebody saying in the commercial side of things, that
+the lenders are underwriting conservatively, when you find that people in their desperation to maintain
+high prices are having to go to alternative sources like bridge financing, and Anton said 90%, that tells you
+that the money is a little bit tighter. At least that's what | how | read the tea leaves and Anton and
+Stephanie, you can feel free to disagree. But it makes me feel like things are tightening up a little bit. And
+the other issue, of course, is how fragile the bond market is. Because if interest rates do go up, then
+existing bonds are priced down. It's just like an apartment building. If you buy an apartment building and
+the income doesn't go up, but the cap rate went down, you just paid more for the same income. Well, the
+same thing is true with a bond, right? If the coupon rate of the bond is whatever it is, and you pay more for
+that your yield on capital goes down because you paid more for the same income. But of course, the
+reverse is true. If the bid goes down, it forces the yield up. In other words, existing bonds already have
+their coupon set, it's like the rent, it doesn't change. And so the only way to adjust your yield is to adjust
+your bid. If | bid more, I'm willing to accept less return on my investment, if | bid less, | need to get a
+higher yield. Well, if the going rate in the market has gone up, then the existing bonds are going to be bid
+down so that the actual yield comes back up to market. Okay. And this is why the bond market is so fragile
+because we have years and years and years and years and trillions of dollars of bonds that have been
+Originated in a zero rate environment. And when you understand that, and then you marry it to the other
+thing. So this isn't about what's going on in the bond market. And it isn't what's going on with interest
+rates. What's really going on in the apartment space. | think Anton, I'll be interested to see if you see
+anything on this yet, or as we progress and continuing to, you know, to have you keep us updated. But the
+the the interest rates, in order to get a real yield, that continues to fall, you have to have inflation. In other
+words, if you understand a nominal rate is whatever the interest rate is, say it's 1%. And that's the number
+that's the nominal rate. If inflation is 3%. And your note rate is 1%, you have a minus two real yield. In
+other words, you're losing 2%. to inflation, you're one point forward three steps back as minus two. So if
+you have to lower real interest rates in order to preserve the bond market and interest rates are already at
+zero, what do you have to do with inflation? You have to drive inflation up. So if | have zero and | need an |
+need a minus three, | need inflation of 3%. If | need if | need a minus four, | need inflation at 4%. Because |
+can't move the interest rate it's already at zero. And this is why | don't think inflation is transitory. And why
+| think they're so desperate to try to create a scenario where they can actually reset because we have
+been on a 40 year declining interest rate since the dollar collapse in the 70s. They reset the interest rate in
+the early 80s. And we've been enjoying 40 plus years of falling interest rates. Well that party's at an end.
+And now we have to have inflation. And the Fed came out in 2000 Something eight or nine or five or
+whatever. And they they publicly said they were committed to 2% inflation but now that they've achieved
+2% inflation, they talk about backing off but they can't they won't they can't do it. And the concern now
+with the apartment investors, any any of you who are multifamily, any of you who are renting to
+consumers right now, working class people. i You probably just saw this yesterday today or yesterday, we
+just had a CPI index that came out a 30 or 40 year high. This is the worst street inflation even Biden came
+out after she said the first thing he did as president is he shut down the Keystone pipeline. We went from
+abundant energy and oil that was priced in the negative numbers and very cheap to being very expensive
+and that has rippled through. So you may agree with the politics of the environment or whatever reason he
+did it but at the end of the day, the street effect is rising cost of everything, and your tenants are feeling it
+right now. And so you need To be paying attention to that. And so it doesn't surprise me with Anton saying
+that these guys are more strictly underwriting and the bridge lenders, you know, you can tell stories to the
+bridge lenders, you can tell you know, you can you can project oh three to five years and rents gonna go
+up and blah, blah, blah. But you can't tell those stories to the other lenders, right, man Anton, that's what |
+heard you say?
+A 59:15
+Thank you
+at a pretty significant penalty. Usually for a conventional Fannie it's around 0.3% above the eel
+maintenance rate, so it's a pretty stiff penalty. Another alternative is that you go with a floating rate loan,
+Fannie is not ideal candidate for that Freddie is a much better lender when it comes to so called floating
+rate loans. There, the interest rate is fixed, is adjusted every month. And you are starting out today we
+locked in a loan recently at 2.9%. Obviously, that is going to adjust every single month during that holding
+period. However, the Freddie is asking you to buy so called interest rate caps. So you're still protecting
+yourself from from a massive jump. So | would say for all these deals, larger deals, | would definitely
+consider to go with a with a Freddie floater and just add the interest rate cap. That is the minimum that
+Freddie requires. But you also can buy it down so your actual maximum interest rate can be very bearable.
+
+® Anton Mattli 48:55
+Beggar
+
+© Russ 48:57
+
+Nice. Anybody else question? Question for the mentors? Don't be shy hate dead air.
+
+© Stephanie Riley 49:08
+
+| got one more. So our | mean, there's all these examples throughout history right? Simon black always
+talks about you have all these currency failures. Are any of the lenders getting smart and asking? You
+know, if if we go to a fed coin, or if we go to this is me putting on my tinfoil hat like Chinese? Where are
+they? Where's their digital currency called? If we switch currencies or something? Or if the dollar collapses,
+where the loan has to be repaid in a new currency? Are you guys seeing any language accounting for
+inflation? Like is there any changes whatsoever to the loan documents in that in that specific regard, just
+on inflation and on potential currency?
+
+© Russ 49:51
+
+Basically, I'm gonna guess and Stephanie and Anton can correct me if I'm wrong, but all of the contracts
+are denominated in dollars. There's no alternative of Any other currency for settlement? If if the currency
+were to fail, it would become a crisis where contracts would be overridden were extreme things happen,
+you know, when when, when we collapse in the 20s. The extreme was We confiscated all the gold and
+basically took Americans off the gold standard. In 1971, Nixon defaulted on the entire gold standard, you
+know, in between that we had the Bretton Woods, when when the world kind of went on to the dollar
+standard to set up the United States to default. But those are all major events, and you really can't predict
+what's going to come out of that. Nobody's going to start hedging, especially anybody that is tied directly
+to a government agency or in a highly regulated business, right? This my opinion, that's not going to
+happen. Now, does that mean that private lenders, you know, if a syndicator out there said, Hey, I'm going
+to start a fund, and we're going to lend in, you know, whatever, and we think that this currency is going to
+die. So therefore, we're going to provide alternatives. | mean, those are private contracts, you can
+probably do whatever you want. But | can't imagine and correct me if I'm wrong, Stephanie, and Anton, or |
+can't imagine there's even any even talk about that. | think the last word thing in the world, anybody that's
+part of the system is going to admit this is even a possibility the dollar could fail.
+51:25
+
+Yeah, | agree. It's all dollar denominated, no one is, is referring to an alternative currency or payment
+method. So as a borrower you are required to to, to meet your obligations in US dollars, right. However,
+that might look like if the dollar collapses and goes away? Well, there will be a replacement for that in one
+way or an order. And that in the lending world, we call that restructuring. And that's what would happen
+with all these deals. Right.
+
+JO
+
+© Russ 52:05
+
+Okay, so, in our closing minutes, and if anybody has a question, feel free to ask it. But But since I've been
+Shaking the tree pretty hard, and we don't have any. | would, I'm curious stuff. Just use what, you know,
+what you've been seeing in terms of lending guidelines? Or are things from your perspective? Are they
+getting easier? Or do you feel like they're the LTVs? The the underwriting the credit scores, the reserves?
+Is it getting tighter? Is it getting easier? Is it just steady as she goes?
+
+() Stephanie Riley 52:42
+Sorry, looking for that mute button. It's been pretty steady. | mean, when they took away that 7% cap on
+Fannie and Freddie purchasing investment property and second home loans, we immediately saw low level
+price adjustments that were super high to the worse, disappeared. So pricing gaps from owner occupied to
+second home and investment property closed. From a pricing standpoint, as far as guidelines and
+qualifying. So far, it's been pretty steady into Anton's point about the bridge money out there, the same
+sort of thing happens in the residential space with portfolio lenders that come in with their own funds, and
+fill those gaps. And what happens is, | see the complete competition, because if you can go to a portfolio
+lender, and not have to mess with all these guidelines, and only pay a small margin higher, um, that | see
+some of that, it feels like there's some tension there. That's keeping the, in order to keep the the
+warehouse, right, that's the sales going. The conforming and conventional lenders have to keep their
+guidelines, so they're not losing customers to the portfolio lenders. So there is | see that tension there. But
+So far, it's been pretty steady.
+
+© Russ 54:09
+
+What about income documentation? Is it they asking for more? Are you starting to see anything that looks
+like stated more flexibility, less seasoning, anything at all that indicates loosening or anything that
+indicates tightening?
+
+© Stephanie Riley 54:25
+Um it's been pretty steady, | mean, loosening in the sense of COVID. So COVID, there were overlays that
+all the lenders had, they freaked out immediately jumped on a bunch of overlays, to kind of hedge and
+those have lifted and kind of we've gone back to more normal. Now, | haven't seen anything recently
+where it's like, oh, we used to have to do this. And now we have to do more or we have to do less The only
+change. The only caveat to that would be COVID. You know, this was The COVID overlaying were lifting it
+now. So in that sense, you could say yes, there's loosening.
+real estate is the go to vehicle for doing that. But Jim, the reason | wanted to bring you up is that if you can
+just take a second and just help people understand that when when a seller who maybe has some equity,
+and a lot of sellers don't realize the flexibility, the things they can do with their equity, they just sell. But
+when you're there, and you're looking to create a deal in your capital stack, as a buyer, you're going to
+bring in your downpayment, and you're going to bring in your loan. But the owner's equity could also be a
+source for you, even if they want instant liquidity, because if you can help them create the note, then you
+can also introduce them to a guy like Jim, who can help them sell the note and get instant liquidity and
+they don't have to get the liquidity from you. So can you can you just talk just a tad about that, Jim?
+
+@) Jim Griffin 12:50
+
+Yeah, so just a tad about that. So yes, the key is to paper up the note in such a way that it has, that you're
+not leaving money on the table, when you want to go Sell that note in the marketplace. Marketplace is
+going to look for something that they consider to be a quality note. And so you pay for that up in a way
+that that is considered quality, is
+
+@ Russ 13:19
+
+it only me or can we not hear? Ya?
+
+Gy) Jim Griffin. 13:22
+
+There are different? Okay, um, what | am worried about my connection here.
+
+© Russ 13:29
+
+Yeah. Okay, so I'm gonna, | think we made the point to Jim, Jim has a a report, also very detailed report in
+our library. So I'm sure Stephanie can look up those reports and get you all information on how you can
+access them. But learning to understand the debt side of things is important and how things fit together.
+So for example, you know, you might have investors that have equity on their balance sheets with
+residential one to four properties, maybe they own their home, maybe they own a second home, maybe a
+couple rental properties, Stephanie can show you how to access that capital. And if you understand the
+arbitrage concept, do it in such a way that it doesn't, you free up a big chunk of it, that they can then use
+as a down payment or put into your syndication and they become your equity going into a deal and you're
+going to pair that with debt from somebody like Anton. But what what Jim has is a marketplace for notes in
+the secondary market. And so what you're able to do with that is, depending on what Anton says, the
+commercial lender will accept your capital stack is your downpayment, which may be sourced from
+repositioned equity from your smaller investors real estate portfolio through someone like Stephanie, and
+then your conventional debt, which would be sourced from a broker like Anton, and as long as that
+commercial lender would allow a second to exist. There could be a carry back from the original seller, and
+then a guy like Jim can help you create liquidity They're so when you have these tools in your toolbox, and
+I'm not bringing it up, because we're gonna go into the weeds right now I'm just, | want you to be aware
+that when you have these tools in your toolbox, and these people, these advisors, in your Rolodex or in
+your speed dial in your phone, your contact list, whatever we call it these days, then you can often get
+deals done that other people can't figure out how to get done. And that's especially true in a tight market.
+So just be aware, and that's all I'm saying. Just be aware. So Stephanie, just put up for in the chat for those
+SO Okay, I'm gonna have some thoughts Anton. What are your What are you seeing out there?
+
+20:02
+
+Yes, still similar to, to the residential one to four units when it comes to the conventional residential loans,
+Fannie and Freddie. And they continue to underwrite in a very conservative fashion based on in place cash
+flow. They are not projecting any, to any performer. So when it comes to these loans, | would say the
+cushion in most instances is only there from a valuation perspective, as well as in most instances from a
+cash flow perspective, as long as the operators are able to perform. Right, so we still have a debt service
+coverage ratio, that's typically 1.25, maximum loan to value of 80%. And when we look back to 2009-2010,
+multifamily dropped in some markets, maybe a little bit more, but then average maybe around 20%, for a
+very brief period. So as long as he didn't have to refinance, you are able to recover from that. Now, there
+my main concern really lies where there is certainly much less of a of a conservative underwriting going
+on, and a call it the wild most of financing is in the bridge space. Right now. 90% of all multifamily deals
+that we arranged to financing are all done with bridge loans, right repeat 90%. And a lot of those steals, or
+so called stabilized so they would qualify for a Fannie or Freddie loan. The problem is because of the debt
+service coverage constraint, the leverage may come in at depending on the market, like a phoenix market
+at 50%. And so indicators and all investors want to have 70% plus, so what do they do to go with a bridge
+loan, and for to support a bridge loan you need to underwrite to future cash flow. So everyone comes up
+with these, with these performance numbers that are three to five year performance, typically, the lender
+under writes through the three year exit into an agency loan or a permanent financing. And that | would
+Say is the is really the risk element in the in that market. The reason for that is we have seen more
+liquidity in the bridge space than ever before. In March 2020. Van COVID-19 Shut the whole country down
+and the world down for for a brief period. A lot of bridge lenders went under a lot of them stopped lending.
+And the reason for that is simple. Most of these deals are securitized, right they also come at have their
+own balance sheet but 95% Plus, or all securities are securitized so they depend on being able to sell these
+loans that they originate today, over the next three to six months into so called clo or Colette collateralized
+loan obligation, which is essentially a bond. And that is really my main concern. These are a lot of deals
+that have short term financing, usually two years to three years initially, some of them have one and one
+extension. So that's a little bit safer. But | foresee that quite a number of these deals will struggle to get
+into a permanent loan, particularly when interest or if interest rates rise, as Stephanie has alluded to,
+whereas only can be a risk for that. And a lot of people say of all interest rates will stay low balled that
+potentially as the case. But we should remind us that in 2008, 9, and 10, interest rates came down but cap
+rates went up. Right. So investors, or as what Stephanie said, they are looking at what is what is my return
+that | need to see. And a lot of these loans are again, third party investors, once they decide that they
+don't like the return, then they move out of that segment. Right. And so | think the valuation potentially is
+an issue, as well as just interest rate that someone cannot refinance into a problem with all these bridge
+loans.
+
+JO
+
+© Russ 24:37
+
+So Sep |, it's a great question, by the way, but I'm not sure everybody understands the greatness of the
+question. And | think it's important you've been doing this a long time. You | think you came into your
+investing career just after 2008. So the wake of that was fresh. You didn't experience it personally, as |
+recall, but I'm sure you stepped right into it. Of course we stepped right in it in 2008 But it just explained
+everybody why are you asking the question? How does this apply to your your syndicating in terms of you
+know, your, your investment choices, your investment thesis, your financing structures? Why are you
+asking the question? Oh,
+& Saundra 09:28
+
+funny. | think my markets where | live is way too expensive, like I've just been exploring, and | was like,
+wow, how does someone get into this first time here?
+
+© Russ 09:36
+
+Yeah, live where you want to live, but invest where the numbers make sense. And you're not looking for
+properties. You're looking for markets. And once you find a market, you're looking for teams, and then the
+team's the boots on the ground teams in the market can bring you the deals. Your job is to bring them the
+money and the debt and the leadership. That's where you have to see the big picture and bring your bring
+your people in. Anton, you wrote a paper for us and stuff. Do you remember what the CTA was the email to
+get that? I'm sure it's at the real estate guy's website. If you go to real estate guys radio.com and look
+under the resources tab under special reports, there's probably a report there about multifamily lending
+written by Anton, you're going to want to read that it'll teach you things about like debt coverage ratio,
+and reserves and all that kind of stuff. And that's a great place to start. Okay, all right, good. So, Steph,
+you said we had a second question.
+
+@ Stephanie Riley 10:33
+
+You're, well, Sep had a question. | don't know if you want to address the questions of the people that are
+on the Yeah,
+
+© Russ 10:40
+
+yeah. Yeah. Yeah. So Sep, go ahead. And oh, and by the way, | want to point out that Jim Griffin just joined
+us. So Jim is some of you know from the show, he's both a member of the club. But he's also in the real
+estate guys, provider network. And he's one of our faculty members. And he's an expert in private notes.
+And sometimes when you're trying to put a deal together a private note, either one that you create, with
+an owner carry back, persuading the seller to create a note. And, in fact, let's just take a minute and go
+there. Hey, Jim, can you can you unmute and pop up and Say hello to everybody?
+
+G) Jim Griffin 11:16
+
+Sure, I'm, I'm actually visiting California right now. So | don't know how stable my internet connection is, or
+whether you can hear me well or not. But
+
+© Russ 11:27
+
+| will, | won't take any digs at California. So | just spent the weekend in Lafayette, Louisiana was your dad's
+celebrating his 90th birthday. So that was a ton of fun. And that guy's amazing. So for those of you that
+don't know, Jim's father is G. Edward Griffin, the guy who wrote Creature from Jekyll Island, who launched
+the careers of me, Robert Kiyosaki, Chris Martenson, and many, many other people who woke up to realize
+that the system is broken. And we have to find a way to navigate that broken system. And so profit, which
+yvuuiiuiu yy UeUuuY UUM YUIONW yyul YYrevreivil.
+
+@) Jim Griffin. 01:21
+
+Nice to meet you. Um, so I'm new at this. And I'm just kind of learning as quick as | can. And my question
+was, um, what are the things if you're going to purchase your first, let's say multifamily? And let's say it's
+above a million, you know, like in my market, if | wanted to stay in South Florida, everything I'm looking at
+is really expensive. What are they looking for from a first time? Like the lender, what are they looking for in
+my background, or history? And how much like if | syndicated with someone else, what are they looking for
+in their background? Just like a preparation?
+
+@ Russ 01:58
+
+Yep. Okay, so I'm gonna go ahead and hand that one off to Anton. Basically, there's two categories of
+financing. And so when you're new, you're not quite familiar. Sometimes when we think of commercial real
+estate, we think that it's an office building or retail building or an industrial building or something like that.
+But in financing, even in residential, there's residential one to four. And then there's commercial
+residential, which is five units and up so when you say multifamily, if it's four units, it would be in
+Stephanie's wheelhouse. It's those are separate areas of lending. And mostly, that's because the federal
+government created many years ago, Fannie Freddie, which are, you know, they call them GSEs.
+government sponsored enterprises, and they're basically subsidized lenders that are supposed to make
+housing affordable. He targets small housing. They do have programs for multifamily, but they're they're
+handled differently. And so there's just this line of demarcation in the lending world between residential
+one to four, and then residential five and up. So everything that is not residential one to four, in lending,
+we typically consider commercial and then inside commercial, there are people that specialize and you
+know, like industrial or farmland or multifamily is pretty ubiquitous. And so peak financing, which is Anton's
+company, probably is the right person to answer this question. You're talking Sondra, about residential
+more than four units.
+
+Jim Griffin 03:26
+
+Yes, yes.
+
+Russ 03:29
+
+Okay, so Anton, let's, let's toss that over to you.
+
+Anton Mattli 03:32
+
+Sure. Hi, Sandra. So, the good news is that your personal income doesn't matter for for commercial real
+estate, including multifamily. The underwriting is really done based on the property's cash flow, we call it
+NOI. And that NOI then determines based on the loan, the interest rate amortization, the debt service
+coverage, and that, at the basic level determines the loan amount in addition to the value LTV loan to
+value, that is the maximum amount. So that's the good news. Now, the negative part is is that lenders
+generally like to see some experience in commercial real estate that you're buying, whether it's retail,
+whether it's multifamily or an office building. However, if you're local to a building, and it's a relatively
+o Anton Mattli 35:19
+
+Jo
+
+JO
+
+Yes, that's correct. It's really two separate worlds, right? It's the permanent lenders that tend to underwrite
+conservatively, they do not really care whether you have these rosy projections. They look at the in place
+cash flow, they look at current valuation, whereas on the bridge side, they do not really care. And | always
+try to explain what how the bridge loan market to a large extent, is really nothing else, but also a
+syndication game, right. If you do a syndication, obviously, you raise equity, and you get that, and then
+you buy this property. Well, bridge lenders essentially do the same thing, right, so they raise equity, to get
+a certain amount of financing. So they get warehouse lending, so they get a big chunk of warehouse
+lending.
+
+Russ 36:13
+
+For those of you that don't know, it's just like a giant line of credit that a mortgage originator has. So if
+you're a mortgage banker, which means you're lending your own funds, you're not really lending savings,
+because you don't have any savings, which you have is a giant credit line, and you fund your loans out of
+the credit line, and then trade that for stacks of mortgages. And pretty soon you have a stack of paper.
+And then you take that to the to the security market, and they buy that paper and they securitize it and
+sell the bonds and they pay pay you cash, you use it to pay down your credit line, and you make your
+living churning that credit line, you make a little bit of profit when you sell the paper, but you're making a
+lot of profit, just in the points and fees of originating the loan. So they're supplying your inventory, if you
+will, if you're running a grocery store, your warehouse line of credit is just the the cereal and the spaghetti
+and the Kansas soup or whatever it is, it's in your grocery store. So just so you just understand, it sounds
+like you know, it's this big complicated. It's not that complicated. It's not that,
+
+Sill
+
+yeah, so in other words, they borrow money to to lend you, right, so. So it's not that they bring in all their
+own equity, they can raise a massive amount of equity, but because it's still leveraged the amount of
+bridge money that is flooding the market, we have never seen, right. And that is the reason why you are
+able to get to 80% of loan to cost today, even though cap rates are at three and a half percent in some
+markets like Phoenix and all that. So
+
+Russ 37:45
+
+you might have 20% down maybe 10% Bridge and 70% conventional.
+
+37:50
+
+Now you it's all a it's typically all bridge. Yes. So so a bridge lender doesn't doesn't want to be in a second
+position or funds different all of it, what happens is, on top of that, you also can have preferred equity on
+top of the bridge, which a lot of syndicators do too, so that they can do larger deals, if they do not have
+the ability to raise their own equity, right. So you have the capital stack very often 85%, sometimes even
+90% is all other people's money. And then you have maybe 10 to 15% that the syndicators raised
+themselves from their own network, right. So there is just not that much cushion there. If you maximize
+JO
+
+JO
+
+that leverage. There are always cases where it makes sense. But | would argue that a lot of deals or
+leverage because they can. And that's really my my main warning to all of you in if a bridge lender is
+willing to give you the maximum leverage, just remember that you will be you will see that you can
+refinance when the capital event comes up, right. prices may drop by 20%. And you will have a fixed loan
+in place. The price drops over a two or three year periods do not matter to you when you have a fixed rate
+permanent loan in place. If you have a bridge loan in place, and you need to refinance that during that
+downturn, well, you have a capsule called capital event. So you don't have a choice you need to do
+something | do you need to sell or you need to refinance during that period. So looking back to 2009 and
+2010. A lot of people that had loans maturing that then think ahead to renew their loans on in time. They
+had cash flowing properties, but because the value stopped, they still had to bring equity to the table,
+right? So just be careful when you maximize your leverage. Just because a lender is willing to do it doesn't
+mean that it Dan, it's the best idea for us a deal sponsor and syndicator.
+
+40:06
+
+Add a comment to that, or at least my understanding of a comment to that, which would be that at least
+on a residential one to four side, you wouldn't have as much of a concern there, right? Because it's a fixed
+30 year with the equity doesn't matter drops out from underneath.
+
+40:21
+
+| would say generally speaking, yes, you still have lenders, or obviously on the residential side that tend to
+underwrite to your personal debt to income, right, so as long as it can service these loans, it doesn't
+
+matter in less so. But on the multifamily side, because you have that that to the debt coverage ratio, which
+is typically 1.25. So you can have noi that drops by roughly 25%. And you will, would still be able to service
+the debt, right? So you only half that cushion there when you have a permanent loan. And a lot of property
+owners in the multifamily space this or wife 2008, nine and 10, thanks to long term financing in place.
+
+Russ 41:10
+
+Yeah, whether you're residential one, four, or commercial right now, | think locking in long term financing,
+if you can get it is a smart thing to do. And then if you have a good source for it, and deals at pencil, | think
+that explaining to your investors that, you know, well, those deals are safer. You don't want to put fear into
+the minds and the hearts of your investors. But at the same time, these people, | hope are paying
+attention. And you better be addressing things like how are we going to deal with the fact that gas cost
+twice as much food cost twice as much? How are we going to impose rental increases on a demographic
+that doesn't have any substantial discretionary income, it's all being destroyed by inflation. And so your
+your your your go forward planning as to contemplate that. The other thing to look at in a marketplace like
+this is you're out there lining up your investors, and you're evaluating your capital sources, whether it's
+conventional lenders, bridge financing, private community banks, private equity, | mean, it's not a bad
+idea in a marketplace like this to come in with all cash and just buy the properties, and then wait till the
+dust settles, and then, you know, refinance them, because | believe that the financing will always come
+back. So what Sep started out being worried about | don't think was is the era of financing real estate
+coming to an end, | had a big debate with a guy, we were working on a television show, television, private
+network for mortgage professionals, and he pulled the plug on the whole project in 2008, because he felt
+like there wasn't going to be a mortgage industry. And | just that made no sense to me, I'm like, well,
+pretty sure there's always going to be real estate, and people always gonna need real estate, they're
+gonna be willing to pay for real estate, therefore, there's income, pretty sure people aren't going to start
+November 2021 - Ask the Mentors Q&A Call on
+Lending with Rus...
+
+@ Thu, 11/11 8:51AM @59:20
+
+SUMMARY KEYWORDS
+
+loan, anton, lenders, deals, multifamily, interest rates, question, people, stephanie, inflation, bridge, lending,
+
+financing, refinance, fannie, money, equity, jim, borrower, buy
+
+SPEAKERS
+
+Saundra, Sep Bekam, Jim Griffin, Stephanie Riley, Russ, Anton Mattli
+
+@ Russ 00:02
+
+Hey syndication mentoring club Russ here for a another edition of Ask The mentors for November 2021.
+This one's on lending. And we have our two lending mentors with us in the residential one to four kind of
+Small property where you qualify with your own debt to income ratios. is Stephanie Riley. Hey, Steph. Hi,
+Chris. That's okay. That's alright. And that's probably a good thing, that if you're not speaking, you should
+be muted. And then on the commercial side, we have Anton mattli from Peak financing. So let's say hello
+to Anton. Hi, everyone. Alright, so, Steph, we've got a couple of questions. Can you see the roster of
+everybody who is in in the session?
+
+© Stephanie Riley 00:48
+
+Yes,
+
+@ Russ 00:48
+
+just open up and click participants. So if anybody who asked a question Is there then let them ask their
+question.
+
+6 Stephanie Riley 00:55
+
+Um, | don't think so. Saundra
+
+@ Russ 01:04
+
+Are you here. | saw her. Oh, okay. Yep. | don't | recognize her stage name here because it says SX. Yeah. |
+don't know why that says that. Supercross Supercross to me, so Supercross is my favorite sport. Yeah, so
+
+Gaiindra an ahead and ack waiir qaiactian
+@ Russ 55:07
+
+_)oO
+
+Okay. And so Anton, same question for you. And then for both of you, just, you know, we had loan
+forbearance pushed upon everybody along with eviction moratoriums, and we obviously all understand
+eviction moratoriums, but, you know, | don't think the master faults that everybody was concerned about
+happened, at least | haven't read about them. And so had Anton, have you seen? If you could kind of say
+it's trending tighter, it's trending looser? Does it feel like they have, you know, abundant money to lend
+and they're competing? Or does it feel like, you know, they're they're only interested in quality? And
+everybody's kind of getting ready for a storm? If you if you could pick one? Which Which way do you think
+the winds blowing? Yeah, |
+
+55:50
+
+would Say it's only the agency staff. Like they could lend much more if they could, right. So they are
+limited by the the yearly bucket that they actually are allowed to lend. They have lifted the COVID debt
+service requirements. So that's definitely a positive both on the Fannie and Freddie side. While they would
+say however, it's only that they are now much more attentive to or aged receivables, right. So in the past,
+very few lenders and the agencies asked for up to date aged receivables reports meaning a list essentially
+a breakdown off of the various rents and tenants late it's essentially a rent roll that shows what is current
+what is 30 days late, what is 60 days, late, 90 days late plus, so they have a clear understanding what the
+actual outstanding receivables are. In the past, they haven't really dug in that much. And they are
+definitely much more focused on this. At the same time. Also, on the other side, the accounts payables,
+they are much more looking into that too, because obviously, there were a lot of PPP loans, and order
+emergency loans that some of the borrowers took out. And some of them also did not pay their contractors
+on time. So overall, they definitely look much close and read the operational side how the balance sheet
+looks like.
+
+Russ 57:30
+
+Okay, well keep us posted. You know, | think one of the leading indicators of what is coming down the pike
+is how healthy the credit markets are at the street level. And these are big investments, you know,
+whether they're residential loans or commercial loans relative to the kind of loans you get made a student
+loan or a car loan is small, relative to even a house loan, much less than Apartment Building Loan. And so
+the underwriting guidelines and the looseness, or the tightening of the money can be a little bit of an
+indication with the people closer, higher up the food chain, see coming. Because they're privy to
+information and insights that we don't have, we just have to try to, you know, read the tea leaves a little
+bit and be as proactive as we possibly can. So Anton, Stephanie, and Jim, thank you for being on the call as
+our mentors. Thanks, everybody for attending. This thing will get posted up in the platform shortly. do us
+all a favor, though, when you're going to be on these calls, take a few minutes and sit down and think
+about your real world experiences. The questions that you have things you've read maybe in the paper, or
+you know, online and things you've heard talking in your conversations that have confused you that you
+don't understand, you're not sure what they mean. Or maybe you have an idea thesis you'd like to pose
+Hey, | think that maybe this is what the tea leaves say to me. Does that make sense? Or am | dead wrong?
+Or do you have a different opinion or whatever that makes for a lot more lively conversation, we're always
+going to have a good call. But when you guys are coming with your real world experiences, then this calls
+go from being you know, good, very good to being really, really great and useful. So appreciate
+everybody's participation. And I'm not sure when I'm see you all again soon, hopefully, but if not enjoy
+your while. I'm sure I'll see you on another estimators before Thanksgiving. But thanks, everybody for
+being here.
+of you can't see it if you want Anton report is multifamily at real estate guys. radio.com. And Jim's report is
+private notes, plural private notes at real estate guys. radio.com. Okay, so, Sep, why don't you ask your
+question?
+
+@ Stephanie Riley 15:53
+
+Everyone. So my question just is as far as the source of the capital for the lenders, Stephanie, and Anton
+that you guys work with how resilient do you guys think your lenders are to market downturns now
+compared to 2008 crash? Is the debt still securitized? Is there more securitization going on today
+compared to before? Is it more resilient? Is it more fragile? | think | Know what Russell's answer is gonna be
+on that but just kind of curious. You know what that's gonna look like during the next crash?
+
+© Russ 16:29
+
+Steph, why don't you go first?
+
+© Stephanie Riley 16:32
+
+Okay, so, | mean, I'm more in the weeds, obviously, than Russ is, as far as underwriting guides and
+everything. And we're talking where I'm coming from what I'm seeing is the one to four residential stuff. So
+this is a most of these loans that are originated are full doc, they're very, you know, these borrowers are
+not getting as far out over their skis, if you will, as they were in 2008. And so from that perspective, from a
+borrower's and like, what the loan, what quality of loans are, in these securitized packages, much, much
+stronger than we were in 2008, for sure. On the bond market side, right now, you have obviously the Fed
+tapering, but still coming in and buying a lot of those bonds. And so as they work their way out of that, is
+there strength in the bond market and appetite in the bond market for people to come in and make up
+that gap? Well, if inflation is headed, where it's headed, they're going to want to see yield. So there's a tug
+of war there. And and | think that if anything, that's kind of the stuck place, obviously, the Fed in and what
+do you do? And | think where the the weakness is, is that more the velocity of things slowing down?
+Because if you're fixed at two 3%, on your residential mortgages, and inflation, and the Fed stepping out,
+is bringing yields up, then who, you know that the challenge is if you move, and you get a new mortgage,
+and now it's a higher rate, you don't want to do that, if you refi. Right. So there's that challenge there, in
+terms of people getting locked in to this. And so it'll be interesting to see how, how they solve that. And
+from an affordability standpoint, going forward. One thing | haven't heard talked about much, but | could
+see is, in my mind, I'm thinking, Okay, how do you solve the problem of we've got interest rates that need
+to rise to keep the bond market appetite there in the bond market, but you've got affordability and
+unemployment and issues. So how are the borrowers going to keep on paying and, | mean, we've seen it
+over the decades, but terms, right terms change. So if | need a higher yield on my money, | can keep you
+affording to pay me more interest and give me that yield. If | extend that term from 15 to 30, to 40 to 50
+years. So you already see that kind of getting talked about and in the works, so to kind of build stability in
+for the borrowers to continue. Um, you asked about securitize? Yeah, | mean, what I'm dealing with is
+Fannie Freddie. So yes, those are all securitized and sold on the secondary market and then traded on the
+bond market. That's kind of what I'm seeing right now. You know, does the Fed taper and allow some pain
+so then they have some room to backpedal. That'll be interesting to see too. But anyway,
+
+@ Russ 19:57
+paying cash for all those things, and that there's going to be mortgages, so the mortgage industry won't
+look like what it is now, but it's going to exist in the interim, there's going to be it's gonna be very difficult
+to get mortgages, property values are going to fall. And if you're in the right position, which | wasn't, | wish
+| would have been, then that's a great time to go shopping. And even if you have to pay cash, if you have
+faith, that that financing is going to come the equity will grow, the economy will, you know, stabilize,
+they'll fix whatever the problems are, and then you can refinance back out again, because | just point back
+to the central bank's commitment to buy billions of dollars of mortgage backed securities and pump that
+money directly into the real estate market. | don't think that commitments gone anywhere, that's going to
+continue to be there, both on the political side and on the banking side. So but you just need to make sure
+that you're seeing what's coming in or position for all potential outcomes. The other thing is, there'll be a
+lot of distressed real estate, if in fact that somebody does tripped over the cord, and all the air comes out
+of the jump house, there's going to be a lot of deals and there's going to be deals not just on the property
+side, but on the debt side. Because when there's not buyers there, people are going to be trying to get out
+any way they can. And that's where understanding the private note business really comes in handy
+because you can make a lot of money in private debt. If you buy it in a crisis. You just have to understand
+what's going on and be a part of that world. So it's really glad that Jim's a part of our world. Wish he had a
+better phone connection, but but that's okay. Glad that he's on the call. So, okay, well, | don't see any
+other questions in the chat. Does anybody have anything at all they want to ask either Stephanie or Anton
+or me for that matter? Or maybe Jim? Don't be shy. We don't have to take a full hour but you got us for an
+hour if you want us.
+
+&) Anton Mattli 44:47
+
+JO
+
+Hey, Russ, | got a question to socket. So | would love to understand that the two proposals that I've been
+reviewing recently, one's a Fannie 10 year loan with a seven year prepayment for novelty, and the other
+one is a Fannie seven year loan with a five year interest or a five year penalty. But listen to the
+commentary just we just heard long terms better. But there's the exit strategy gets very challenging, the
+longer we have the prepayment penalty for, right? So when you comparing these two options, how do you
+look into it? And so maybe the question is more for you from from a from a multifamily. It's a it's a $15
+million loan. So I'm kind of now wrap my brain around. | think I've already fixed the term on seven year
+and fire interest five year prepayment penalty, but I'm trying to sort of wrap my brain around as | look
+forward in other deals. How do |! how do! wrap my brain around? The question makes sense?
+
+45:49
+
+Yeah, sure. Obviously, with interest rates having dropped as much as they dropped over the last month,
+it's no surprise that when you look at prepayment penalties, we call them in the in the space yield
+maintenance, or defeasance, it doesn't really matter. The fact is that investors in these loans want to be
+made whole meaning the difference between two days risk free rate yield for the down to the maturity and
+the interest rate that the loan was fixed amount to have that difference being paid when you prepay that
+long today. So a lot of deal sponsors that bought particularly in 2018, the interest rates in the four and a
+half to 5%. They have still today with five years left and seven years left, they sometimes have 30% of the
+loan amount that is a prepayment penalty, which lucky for them, sometimes they still can get out of these
+deals with the profit because the the the property values have just exploded right. Now having learned
+from that experience, obviously there are multiple strategies where you can say well, now interest rates
+are so low, | do not believe that a deal maintenance issue will be aspect, the road as as it was for the
+people that bought in 2018. So you need to look at that element. But if you say look, I'm just not
+comfortable with with with yield maintenance or defeasance, you have a couple of options, you can go
+fixed. And you can use a step down prepayment penalty with these with a Fannie. The Brahm is it comes
+Sep Bekam 25:15
+
+so | didn't, | didn't get my my like experience in 2008. | did start in 2011. But | did get the experience in
+March 2020, when every single lender that | had in my rolodex just completely stopped. And, and | was
+desperate for a loan to get some liquidity. So it definitely made me think that just never take it for granted.
+Never just assume that just because it's shiny today, it's going to be shiny in a year from now. So you
+know, when when Anton was talking about the bridge, and then the potential exit strategy, | just always
+want to be mindful, what is the exit? Because that's the that's questions that the investor is asked to what
+is the exit? How are we going to get out? What if we get caught in a downturn? So I'm just curious if the
+lenders have learned their lessons, and if basically, what we can do as a syndicator Is just to make sure
+that, you know, the, we're looking at all the variables that we're not just assuming that everything works
+good in a bubble. Well, maybe that's not a good analogy that everything works, works, you know, good,
+assuming everything's firing on all cylinders, right? What happens if we get cotton downturn?
+
+ 
+
+© Russ 26:25
+
+Yeah, | think that the lesson here, and | got the lesson in 2008. And this is why it's important for everybody
+is just to understand that the further up the supply chain, for money, you can look, the quicker that you
+can see a disruption in that supply chain and prepare, right people that have been paying attention with
+the supply chain issues that were triggered when the lockdowns occurred when China took a lot of
+manufacturing offline in 2020, those things are just now beginning to hit the market. In terms of shortages
+in terms of shortage, shortage induced price hikes, in terms of containers backing up, when you hear all
+the talk about the supply chain being disrupted, those are wheels that were set in motion a year ago. And
+there's no way to stop what's coming. The question is, is do you how quickly do you correct the problems
+so that the amount of time that you're in that wilderness, if you will, is shorter? And so it's the same
+principle here? What Seth was trying to do is he's trying to look into the supply chain of money, saying,
+Okay, | Know this comes from from the from Wall Street from people buying these securitize bonds, it's
+either the private market, or it's the central banks. And the mother of all central banks is the Fed. And
+we've talked many times about the Fed put, when it comes to real estate, they're buying mortgage backed
+securities, we know the federal government took an implied backing of Fannie and Freddie, meaning that if
+Fannie and Freddie went bust, they would. The implication was, they would get bailed out, but there was
+no requirement under the law to do it. And there's still no requirement under the law to do it. But they did
+it. And | think they let everybody know that they would do it. And now that that actually just turned the
+party lights back on and refilled the Punchbowl. And everybody got out there and started doing the same
+old, same old. So the challenge that we have in all of this is that most of most of being able to see the
+supply chain, first of all, supposes that you even understand it, that you understand where the money that
+the banker gives you comes from, you know, or the lender, where does that come from? And how do they
+replenish that? And that's really the question Sep is asking. And then the next question is, is once you
+understand that, what are the gauges, we can look at? What are the things that we actually can see that
+are going to tell us that, that there's a disruption coming, the wind has shifted, you know, | just took my
+granddaughters off to go see Mary Poppins. And even though the play wasn't the same as the movie, it
+reminded me of the movie. And there's the scene where the captain is up there, the Old Navy captain is up
+there, or the admiral. And he's, and he's talking about how the winds of change were blowing on 17 Cherry
+Tree lane. And what we want to do is try to figure out when is the the winds of change blowing in the
+lending market? When are we going to go from easy money to tight money, because the minute that
+happens, it is a mad dash for everybody to reposition. And that's why the Fed is very careful to signal what
+they're doing and tell people way in advance what they're doing, because they want people to have time
+to absorb it to figure out what to do to make the adjustments. And of course, the only people who actually
+do that are the people that are paying attention and can interpret it. So you're wise to ask the question
+small transaction, you mentioned 1 million, then | would say you have a pretty good chance with a local
+bank or credit union that you're willing to finance that for you. If | do not know where you live, you
+mentioned Florida if you let's say live in the Midwest and you want to buy in Florida, that makes it much
+harder because these local banks like to meet the borrower and also Want to have the comfort level that
+the borrower is hands on on an ongoing basis, right. So that's for these, as we call them small multifamily
+or small commercial deals, that typically, you have national lenders that cover that space, but they tend to
+be much more expensive than the local banks and credit unions will be. Now when it comes to your
+qualification, if you do not have net worth and liquidity, they typically in banks are a little bit more flexible
+than an agency like Fannie and Freddie and CMBS. Lenders. Typically, for the larger lenders, they expect
+that your net worth is equal or higher than the loan amount and your liquidity after the down payment,
+after you close on the deal is roughly speaking 10% with the local banks there, they all tend to be more
+flexible, particularly when it's a smaller deal. So it's on a case by case basis. Now, but certainly happens
+with the larger deals like Fannie and Freddie and CMBS loans to want to see experience in that segment.
+And if you do not have it, then you can partner up with someone that has that experience with the smaller
+deals and that are financed with local credit unions and community banks. Very often, you don't need a
+partner, as long as they feel comfortable with your financial strength, they trust that you have a third party
+property management company that handles it for you. So it could value but very well be that a local bank
+or credit union is willing to do it just for you, without any other partners, right. Once you get above that
+level, typically a million and a half 2 million and the National lenders come into play, they definitely want
+to have experienced partners.
+
+© Russ 06:54
+
+So I'm going to jump in too because Saundra, when you're first starting out, it's a lot. It's very tempting to
+try to memorize all these underwriting guidelines and whatnot. And really your mission. And this is true for
+all syndicators. And we talked about this actually on last night's Fast Start Session, because what happens
+is people who come in who are used to you know, they're A students, they're used to knowing everything
+about their complete experts in whatever they do. And then you try to do something big. And you can't.
+You know, you they always joke about how the CEO can't figure out how to change a toner in the coffee
+machine. That's because he's head can't be at that level, right? It's not disparaging the people who do
+know how to do those things, the organization couldn't run without them. But someone has to be looking
+at the horizon, somebody has to see the big picture. So when it comes to lending, out of everything that
+Anton said, there's, there's like three or four things that you really need to know. One is, is that you need
+to know Anton or somebody like Anton that you can call to get all the rest of the details. Okay. Number two
+is if you've never done it before, you're going to have to have somebody on the loan, in the deal who has
+experience. All right, that's the second thing. The third thing is the deal has to make sense, right? If you if
+a deal isn't cash flowing, you're going to have a very difficult time getting a conventional lender, which
+means that you're going to have to go non conventional. And this is kind of where it comes away from
+Anton. But the idea is there's small commercial, there's community, and then there's agency. And the
+agency money has to be underwritten to strict guidelines, because it's a huge secondary market
+backstopped by these government agencies and they have to fit in the box and there's no negotiating, it
+just is what it is. The small commercial are kind of like that, but they're typically securitizing not that the
+other ones don't. And then at the commercial lender, some of these commercial lender, | mean,
+community lenders will actually hold the loan in portfolio, then you have a little bit of flexibility. Sometimes
+if you come in with a big deposit, and and they'll they'll you know, if you have other business, or you put
+your float from your operations in their bank, they like that, that gives them capital they can lend, they
+actually will leverage your deposit. And in some cases, you can bring enough money into deposit that you
+create enough liquidity on their balance sheet that they can literally lend it back to you. It's crazy. But but
+you don't have to understand all that. You just need to know that you'll learn it by doing. Yeah, and you're
+just gonna need experience. But it all starts with a deal that pencils in a market that pencils. Okay,
+

@@ -1,0 +1,169 @@
+---
+title: "Transcript EDA"
+output: html_notebook
+---
+
+This notebook is an EDA of transcripts to assess the data quality and robustness so that we know what steps to take going into topic modelling. There are summary statistics, tf-idf, bigram, and trigram analyses, followed by my quick takeaways. 
+
+```{r}
+setwd("~/dev/capstone")
+```
+
+## Import Libraries
+
+```{r, warning=FALSE, message=FALSE}
+library(ggplot2)
+library(dplyr)
+library(vroom)
+library(tidyverse)
+library(tidytext)
+library(forcats)
+```
+
+## Data
+
+I used Google Colab to upload all the transcripts and organize them into a dataframe (exported as csv) where each row is a document and the columns are the filename and the contents of that .txt file. 
+
+```{r}
+df <- read.csv('transcripts_df.csv')
+```
+
+```{r}
+df_tibble <- tibble(df)
+df_tibble <- mutate(df_tibble, text = as.character(contents))
+```
+
+## Summary Statistics
+
+```{r}
+#number of documents
+nrow(df)
+```
+
+```{r, message=FALSE}
+words <- df_tibble%>%
+  unnest_tokens(word, text) %>%
+  count(file_name, word, sort = TRUE)
+
+total_words <- words %>% 
+  group_by(file_name) %>% 
+  summarize(total = sum(n))
+
+transcript_words <- left_join(words, total_words)
+```
+
+```{r}
+total_words %>% arrange(desc(total))
+```
+
+```{r}
+#average word count (size) of transcripts
+mean(total_words$total)
+```
+
+```{r}
+ggplot(total_words, aes(x=total)) + 
+  geom_histogram(color="tomato2", fill="tomato2") + 
+  labs(title='Distribution of Document Word Count', y='frequency', x='document word count')
+```
+
+### TF-IDF
+
+```{r}
+transcript_tf_idf <- transcript_words %>%
+  bind_tf_idf(word, file_name, n)
+```
+
+```{r}
+transcript_tf_idf %>%
+  select(-total) %>%
+  arrange(desc(tf_idf))
+```
+
+```{r}
+transcript_tf_idf %>%
+  select(-total) %>%
+  #ungroup() %>%
+  arrange(desc(tf_idf)) %>%
+  slice_max(tf_idf, n = 15) %>%
+  ggplot(aes(fct_reorder(word, tf_idf), tf_idf)) +
+  geom_col(color='tomato2', fill='tomato2') +
+  coord_flip() +
+  labs(x = NULL, title='TF-IDF Distribution')
+```
+
+
+## Bigrams
+
+```{r}
+transcript_bigrams <- df_tibble %>%
+  unnest_tokens(bigram, text, token = "ngrams", n = 2)
+```
+
+```{r}
+bigrams_separated <- transcript_bigrams %>%
+  separate(bigram, c("word1", "word2"), sep = " ")
+
+bigrams_filtered <- bigrams_separated %>%
+  filter(!word1 %in% stop_words$word) %>%
+  filter(!word2 %in% stop_words$word)
+
+# new bigram counts:
+bigram_counts <- bigrams_filtered %>% 
+  count(word1, word2, sort = TRUE)
+
+bigrams_united <- bigrams_filtered %>%
+  unite(bigram, word1, word2, sep = " ")
+```
+
+```{r}
+bigrams_united %>%
+    count(bigram, sort = TRUE) %>%
+    top_n(15) %>%
+    ggplot(aes(fct_reorder(bigram, n), n)) +
+    geom_col(color='tomato2', fill='tomato2') +
+    coord_flip() +
+    labs(x = NULL, title='Bigram Distribution')
+```
+
+## Trigrams
+
+```{r}
+transcript_trigrams <- df_tibble %>%
+  unnest_tokens(trigram, text, token = "ngrams", n = 3)
+```
+
+```{r}
+trigrams_separated <- transcript_trigrams %>%
+  separate(trigram, c("word1", "word2", "word3"), sep = " ")
+
+trigrams_filtered <- trigrams_separated %>%
+  filter(!word1 %in% stop_words$word) %>%
+  filter(!word2 %in% stop_words$word) %>%
+  filter(!word3 %in% stop_words$word) 
+
+# new bigram counts:
+trigram_counts <- trigrams_filtered %>% 
+  count(word1, word2, word3, sort = TRUE)
+
+trigrams_united <- trigrams_filtered %>%
+  unite(trigram, word1, word2, word3, sep = " ")
+```
+
+```{r}
+trigrams_united %>%
+    count(trigram, sort = TRUE) %>%
+    top_n(15) %>%
+    ggplot(aes(fct_reorder(trigram, n), n)) +
+    geom_col(color='tomato2', fill='tomato2') +
+    coord_flip() +
+    labs(x = NULL, title='Trigram Distribution')
+```
+
+## Takeaways
+* There transcripts are sizeable, giving us a lot of data (over 1 million words) to work with even if we don't have a lot of documents (109). The content of those documents is robust, but needs a lot of cleaning and refining due to the nature of the transcription software and domain-specific stopwords.  
+  * A list of words we should count as stop words that are specific to REG/SMC and even more broadly to real estate will be needed. 
+  * There seem to be a lot of weird words, probably due to the transcription software. 
+  * The top words and phrases seem to be a mix of real estate topics, people's names, REG/SMC naming, and odd words that may be a result of transcription software issues. 
+
+

@@ -1,0 +1,790 @@
+going to see has to fit. What it is that you know you intend to build, right? So obviously the framers and the
+foundation people, the electricians, the plumbing, none of that is going to work if the architect hasn't decided what
+the finished product is going to look like. So the infrastructure is designed to support those process maps. So you
+start with the process map and you build infrastructure to facilitate your processes. You don't change your processes
+to work around whatever crappy infrastructure you happen to have did. | didn't get that right, Stace. Yeah, that's
+exactly right. Yeah. Okay. All right. Well, | think that that’s good stuff. | think we're going to call this a wrap, because
+we're at the top of the hour, and | got to move on to the next thing, but | think this was a good session, don’t you
+think ladies and gentlemen? Yeah. Yeah. Yeah, really good. So thanks for being on the call. Thanks for bringing your
+questions. In states, of course, thanks for bringing your expertise. | continue to learn from you and it’s impressive. So
+thanks to all and we'll look forward to seeing you on the next call. All right, thanks, right. Take care
+Let me toss in a little bit here. | hate Google, by the way. You know, | tell Stacy that all the time. But she came in and
+she put us on G Suite. And I, | capitulated because | asked her to do a job. And I'm not here to tell her how to do the
+job | have to make, you know, | let my preferences be known. And but at the end of the day, you know, what you have
+to have the mistakes that | made, is that | had third party vendors, even employees who would come in, and they
+would, because the way Gmail is or Google is they require everything to pivot around a Gmail account. And they
+were setting up accounts for critical company assets and files and records under their own email, and then they
+would depart. And sometimes just through, you know, not being aware, a lot of time could pass if the relationship
+ended on bad terms, and then all sudden, I'm being held hostage to our assets. So one of the things that we do is we
+set up company G males that are owned and operated by the company, and then all of the critical assets are
+managed through those. And so that is just one thing from my own personal experiences, that that's really
+important. The other thing is, | think, again, you know, I’m not trying to get political, and not that any of us are doing
+anything controversial. But you always run the risk when all of your data is stored in a third party, that you get deep
+platformed, or something happens to that third party. You know, | got to the point where with Google and Amazon, |
+said, Okay, well, those those guys are probably not going out of business. And then through this political thing, there
+was some talk. And you know, it didn't end up happening. But there’s some talk about these companies, because of
+their political activism actually getting taken over getting getting getting shut down or somehow taken over, or
+broken up as a public utility monopoly. So | think it's a good idea to have some redundancy, you know, you might,
+you might have a backup of files from, like, | tend to backup stuff from AWS, we have a lot of stuff on Google. | can't
+say, from my standpoint, we haven't gotten to that point as far as real estate guys, and we create a lot of content.
+But you know, we don't have a completely cohesive digital asset management strategy, yet. We're a lot better than
+we were uncertainly from, from the assets that we need to work, Stacy's taken and drawn a line in the sand and said,
+Okay, going forward, we're going to have good control. And so we do, but there's a lot of stuff in the past that | need
+to bring forward. You know, everything from podcasts, to videos, to just all kinds of things | had, there used to be an
+old, | can’t even remember the name of there's there was two as an alternative to YouTube. There was Blip, Blip tv,
+remember, Blip tv, that was blip. TV. Exactly, right. But there was a blip tv, there was YouTube, and there was Vimeo.
+And so we decided to go with Blip tv. So | loaded up all our videos to Blip tv, and then we got caught up in YouTube,
+and | need to go get those Blip tv videos, and they're colliding. Right, so there's no backup. So you know, storage
+space is pretty free. gotten to a point now where we're creating a stack of multi terabyte drives that | download stuff
+so that | don't even have to depend on the cloud. So it depends on how anal retentive you want to be. And the only
+other thing that you need to be aware of is the confidential information you have you have people's financials, you
+have their socials, in a lot of cases you have their tax returns or, or the part of the tax return that you're providing to
+them. So that you know you have you have information that really needs to not only be backed up for your own
+benefit, and you probably want to have some system for indexing the hard copies to the digital copies so that you
+know where to find both. And then you probably also want to make sure you have some type of a proper encryption
+system. And I've been looking into different email systems like there's one called our posts that I've seen it a lot of
+trade shows proton mail, where you go end to end encryption, so that when you're emailing people, you know you
+ask them to establish an encrypted account, you're dealing with an encrypted account, maybe your team is dealing
+with an encrypted account, and you're only secure Communicating inside that, like proton mail to proton mail. And
+that way you have end to end encryption, the minute you communicate with a third party, like Gmail, like Hotmail,
+like whoever. The challenge with those, as we now know, it’s no secret not conspiracy theory that those emails are
+stored, they're scanned their data mined. And depending on what you're talking about terms of your deal, or people's
+personal confidential information, you want to be careful, like | have a policy right now | can, I'll send you a
+password. By email, | mean, I'll send you a user ID by by email, but I'll only text you the password, | will never put the
+two together in one document ever. Things like that you so you know, we've kind of morphed a little bit in operations
+to digital asset management, data security. But | think those are definitely things, since we're all operating in virtual
+teams, that you want to begin to work on having a strategy for not just control control of the account, control of the
+data, easy access to the data, and backups. And so kind of having a plan for each one of those categories is a good
+idea. And the stuff that we're doing at the real estate guys is less sensitive, we have a lot less of confidential financial
+information for our customers, you have some, you know, like with somebody at sea, we get people's passports, we
+get their birth dates, we you know, we know a lot about them. So we have to, we have to be careful. But you guys are
+dealing with a lot more of that, and are more of a target because it's anybody who knows what you do knows you're
+quicker you get it and get it handled and kava plan. If you go back into the business planning module, the very
+original business planning module, where you go in and you answer the questions. One of the questions we asked
+you in the questionnaire is what is your strategy for managing data, managing documents, control, security, all that
+stuff? The good news is there's a lot of people out there who can help you. at the tactical level. The bad news is in
+order for them to be able to do it, you have to have a strategy you have to have be clear about what you want, you
+know, a vision about what it’s going to look like they can give you input, like Stacey just gave you a lot of great input.
+But at the end of the day, it’s got to be built around your business. You know, the advantage that with Stacy right
+now and her team is that she’s working substantially with syndicators. So when you deal with somebody that is
+dealing in a particular vertical, they really get to know the vertical, they bring in the great ideas and best practices,
+they pick up other places. And that's why we wanted to have that type of a programming SMC, because | knew from
+my own experience exactly what you guys were all going to go through, because that's what | went through. And
+everything is flying all over the place. And if you're having success, you got money coming in, you got deals coming
+in, and the data stacking up and the security holes are growing, and every day just gets messier and messier and
+messier. And what you really need to do is turn to somebody who really knows how to fix the problem and knows
+understands your business, and say, hey, help me help me get to a baseline, and then maybe a few custom tweaks
+based on me and how | want to do it. And that's, that's what Stacey is doing for the program for people who choose
+to engage her. So we can't cover her expenses inside of the program. You know, she has her own independent
+business, but she certainly understands this side of it. So something to think about. But, but it, I'm so glad that this
+topic came up for all of us, because you know, we didn't have it on the radar. But again, this is the whole thing. The
+reason we do these ask the mentors this way is because after trying to think about everything we'd want to teach,
+rather than try to sit in a closet and come up with a curriculum, we think is the master end all be all curriculum, we're
+just going to teach as it comes, we're going to deal with the real world, as you guys are living in the real world, and
+then come up with real world responses, it's not quite as organized. And as easily catalogued, we're doing that to a
+great degree on the platform. But when you finally get to the meat of the matter, the stuff you get is a lot more
+practical. So stay so I'm going to put on the wish list that we do some type of a training module specific to digital
+asset management and control. And and then you know, it doesn't have to be like down to the NATs eyelash, but at
+least give people a high enough level of understanding. So that they they have an idea what they should be looking
+for, with a vendor and what type of things they should be looking for in their current arrangement to see where they
+may already have glaring weaknesses and liabilities. And often, you know, you're not going to fix it, you know,
+sometimes | say, Okay, we're not going to fix the past, let's just draw a line in the sand and going forward, let's do
+everything on the new system. And little by little will pull stuff from the old into the new until we're all on one system.
+Sometimes that's the way you have to approach it depending on how big a mess you have. Anyway, any anything
+
+you want to say on that space before we | think we're pretty close to wrapping up here.
+
+() Staci Gray 57:21
+
+Yeah, | would just say it’s also very helpful when you because what you're talking about is really building out the
+infrastructure to support the day to day operations of raising capital and doing deals. And when you're trying to
+build up the infrastructure without having the process maps without having this. Because you're saying this, like
+each, each thing talks to something else, right. So if you're working in G Suite, it may talk with Infusionsoft or it may
+talk with your project management system or your investor portal, or it may communicate with a third party.
+Understanding how all of those workflows need to happen, is really is really helpful before you just start setting up
+piecemealing setting up things.
+
+@ Russ 58:01
+
+Yeah, let me let me put it in real estate terms. If you were to go build a custom house, and you hired the construction
+crew first without hiring the architect, then you can't get people pouring foundations and framing and putting all
+that stuff in if you don’t know what the outside is going to look like. Because the structure that holds the part you're
+which we do not have access. And just on one last note on that, as Stacy will tell you, we have you know, our our
+GoDaddy account where we have all of our names registered. And a lot of our email is administered through that,
+especially the executive email. And I'm in the process of parsing out all my team manage domains from my executive
+domains. But if you're going to give your team the ability to manage a domain and you give them access, you also
+have given them access to your email. And so if you have critical infrastructure, financial accounts index to those
+emails, you've really given them the keys to the kingdom. Now, I'm not saying they’re nefarious, and they're gonna
+know how to use them or that they would, but it's a security breach or probably or hole that you probably don’t want
+to have in your system. So we have administrative domains that are only used administratively or executively. And
+they don't even have a public facing domain like Treg admin. Nobody, right? We don't use that publicly. It's a behind
+the scenes, but there are certain accounts that are associated with it. That that We still own and control the domain,
+therefore we own and control the email associated with it. The challenge with Gmail is you have to set up the Gmail
+account with Gmail. And so you don't control the domain. So you have to make darn sure that you control the
+account. So, Stace, | don’t know, you know more about that side to me. Is there something you want to add in that
+regard?
+
+&) Staci Gray 45:20
+
+Well, two things | going back to what you were originally saying, Randy, | think what you were experiencing is people
+were everyone had Gmail accounts. And they were you were using Google Drive. And Google Drive is in a shared
+platform, G Suite has something called shared drives. And you get that by paying the $12 a month per user. So what
+you have sounds like the free version, and everyone had their own Google Drive, they created it, and then they were
+sharing it with each other, but they own the document inside of their own Google Drive, is that how you guys are set
+up right now.
+
+o Janna Hubbs 45:55
+
+We pay for G Suite. And, okay, email account, we have an administrative one that only myself and Randy sees. We
+have other emails, what we haven't done is, excuse me switched over and put the documents in the platform of G
+Suite. So it’s one o'clock. And I've got to find somebody really good about doing that, because | really don’t want to
+do it.
+
+©) Staci Gray 46:24
+
+| mean, | didn't sound like what | was saying is accurate, that right now all of your files are not in G Suite, you maybe
+are set up in G Suite, but your files aren't in G Suite. So you're struggling because they're all in Google Drive, which is
+very different than G Suite, which is a shared drive, you're paying for it, but you're not utilizing it. So if all of your files
+are in Google Drive and not shared drive, you are going to continue to have that problem. So getting them all moved
+over into G Suite, having your individual shared drives set up access given based on the role based email accounts
+that you set up. For instance, our website, organized to sales website is purchased through GoDaddy. And then |
+linked it to G Suite. So | still own it over and GoDaddy, but it's, | gave permission for G Suite to utilize it and then
+create an individual email addresses inside of G Suite with all of the personal one person one so that when they're
+they're interacting with external people, they can be a human being. But then we have the role based ones based on
+behind the scenes, team members who aren't going to be interacting externally that can share a login for based on
+their role. And then even further than that, we have naming conventions for everything that we do. So every
+document, file, email, anything that gets created, it gets created inside of the naming convention. And the naming
+convention is the same for every single brand that we work on. The only thing that is variable is that brands unique
+thing, so they may have a deal that's named XYZ. And so their brand code is XYZ for that. So they'll have individually
+
+some some customization, but it's all uniform. And | can share my screen if it would help you can see what I'm
+© Russ 48:22
+
+yeah, why don't you go ahead do that say so let me just quickly empower you to do that. And while you are doing
+that, what I'll say or ask is maybe this would make a nice little module or series that we could do. Maybe even bring
+in a consultant or somebody from Google, if they'll do that, or embed some Google training videos or whatever, but
+try to create something so that somebody who's like trying to figure this out, from the beginning at least has an
+overview of what they they need to do.
+
+©) Staci Gray 48:54
+
+So this is, this is the OTS G Suite drive. And | have one that's private, and you may want to do that as well, in the real
+estate guys, we have one that's called execs. And it's all the executive team gets access to that drive. So we can do
+forecasting, we can do you know, planning and strategy that maybe we don't want anyone else to see. Then we have
+the marketing drive, the sales drive. And so inside of the marketing, it’s organized specifically like we have everything
+that's branding related here website related here content, lead magnets, flyers and brochures, social media, PR and
+media testimonials, Google Analytics, so it’s all completely wise. So if anyone's looking for something, they know
+exactly where to go. And then people you can see over here that it people have access based differently. So like 13
+people are in operation. So 13 people have access there. And then we have the external drive where we share
+externally and then we have the FNA which is all of my the private confidential information so we don't share that
+with anyone. One, but then we have HR where we have other people who are allowed to see it. So you can have
+whatever you are whatever main folders you want. And then within them just organize it so it’s easier for everyone to
+keep track. And then when files are named something like you can see this one is three P, which means third party
+events. So inside of our naming convention, we have third party appearances, third party events, compliance, CTAs,
+email campaign manager, and Zach's Infusionsoft marketing all of the things that are unique business categories,
+and then the naming convention for it. So if | wanted to search in the drive for anything CTA related, | could just use
+that code and every single file would have it because that's how files are named.
+
+@ Russ 50:50
+
+In my email campaign, when we're writing emails, | mean, those codes are used on promoting events, their codes are
+used. They're those codes are not just used in files, but actually in data in documents that you create they it shows up
+on indexes, it just become yeah becomes kind of the universal language that you learn the jargon, if you will, if your
+particular business who's jealous already? Yeah, exactly. So this looks like
+
+A 51:19
+
+Google Drive. So is it how does that relate to G Suite in the so you transfer over? Or how does
+
+®) Staci Gray 51:27
+
+G Suite so shared drives is G Suite? Okay? So what you have is personal drive, you have my drive only and what
+you're missing is shared drive. But sounds like for what Jim is saying is you do have it, you're just not utilizing it.
+Everybody's putting their stuff in my drive instead of shared drive.
+@ Russ 11:08
+
+understand why this is important. So Jana keeps flirting with me. She’s waving her hands here. So I'm guessing she
+
+wants to say something.
+
+@) Janna Hubbs 11:16
+
+What are the things that | also do is with the written SOP is like when my bookkeeper on certain tasks that are more
+critical, ie Property Management detail and that type of thing, because things are flying in a different from different
+people, is I'll have her verbalize if we have a hiccup in the system. I'll have her verbalize, or periodically, I'll have her
+verbalize the process that she’s going through with the software for property management, as well as for our records
+and that type of thing. And that seems to help because then I’m looking at the SOP. She is verbalizing her process as
+she's doing it. And we can identify where there's maybe a glitch in the SOP for that. But the other thing on
+piggybacking on Randy is yes, our property manager is overwhelmed in some respects. But he also is thinking, Oh,
+this is just good enough. And when | brought it up last week at our team meeting, it was like, Well, | think we're just
+good enough. But what he doesn't remember is when we had a switch over in teams, where we used to have a
+person Oh, ah, and now we have person, er, they we had glitches up the union. And it's because the SOPs were not
+well put together, and they were running out of memory. And memory is only as good as the person that's doing
+
+© Russ 12:41
+
+it. Well, when someone is an understudy, and they're stepping in, they just don’t know the role as well. And to Stacy's
+point, you know, things change along the way. There's also a process for updating a process, there's a process for
+creating a process and a process for updating a process. So there's only one process for whatever it is you're doing.
+Now somebody may use their memory of what the process was to time two revisions ago. And that might be good
+enough, you maybe don't even realize that they're working off memory until they make a mistake, and you're like,
+Hey, how come you're not working off the SOP we updated it. So I'm sure there's a communication process. So
+everybody who is responsible for that particular procedure is notified. And maybe even oriented when a process
+changes, maybe not every single process, but certainly critical processes. But | want to go back and hit on what
+
+CeCe said, which | think was really, really important. When you have somebody that is basically subordinate on your
+team, and you're giving them a directive, and they’re pushing back. You know, you don't just want to put the hammer
+down because then they don't feel heard. And then you're the kind of boss that people are like, you know, you're a
+dictator, and then you have a different set of problems. But the other issue is that it's a sign, as Stacey said that
+there's there's something there and it could just be culture and, you know, rebellion and, and issues that are maybe
+more severe. Or it could just be a sign that they are completely overwhelmed. In which case, you know, you set the
+original objection aside, just like we teach in sales, and you try to dig down to the objection that matters most
+because if that overwhelm is showing up in something as innocuous as asking for an SOP to be produced, what
+other things are they doing halfway? What other things are they not paying full attention to? Because they're
+overwhelmed? What if that's something critical, and all sudden, you don't find out that they haven't had the capacity
+to give it their best when it demanded their best? Now, they came around and said, Hey, look, I’ve got 10 items in my
+portfolio of work | got to do three are mission critical. And this doesn't fall in that so you need to tell me do you want
+me to let something else go? One of these top three to get to this. Where does this fit in my priority? It's a good
+opportunity to have a conversation about what people are spending their time on and what their priority These are, |
+remember one time when | ran my mortgage company, we're having a similar discussion. And | realized that we had
+a very slow because | was cheap in the beginning. And | bought a very slow color printer. But in order to submit our
+appraisals, we had to submit color appraisals. So they couldn't use the fast black and white laser printer, they had to
+go to the stupidly slow $89 inkjet printer, and they were standing there waiting for this thing to print. And | looked at
+it and | thought, okay, and | went and spent like $2,000, about this high speed laser color laser printer. So they could
+whip these things out really, really fast, right. But until | was aware of where what was causing the time delay, |
+_)oO
+
+Hey, says hold that up to the camera one more time, because | didn't have you on full screen. | want to make sure
+that viewers can see it. So yeah, so the idea is each one of those square boxes is a is something that needs to be
+done in a sequence of events. And, you know, moving from thing to thing to thing is just understanding where what's
+next and what came before. And then to her point. If you want to know how to do what's inside each box, you click
+and then that's it. takes you to a specific standard operating procedure with pictures, diagrams, videos, tools,
+whatever it is you need to do the job. Now, Stace, | don't know if it's possible for you to create like a generic PDF of
+that to attach to this in the in the library when we post this, but | think that might be helpful for viewers, in addition
+to just having you hold it up like that. But anyway, so | think the point there, everybody is just that, if you're going to
+build a machine, and if you really want to have some fun, go watch. Shoot was the name of the movie with Ray Kroc
+with Michael Keaton, about McDonald's. Remember the name of it?
+
+Staci Gray 20:39
+Oh, yeah. Oh, then golden arches. Was it? No,
+
+Russ 20:43
+
+no. Anyway, | mean, if you look it up it Michael Keaton played the character of Ray Kroc, the guy that found the
+McDonald's brothers, he was a milkshake salesman found the McDonald brothers in San Bernardino. And the one
+brother was this anal retentive engineer that just engineered the operation to the nth degree and was constantly
+trying to just squeeze a little bit of extra productivity out of everything that they did. And it just kind of gives you a
+real feeling for the value of building a strong processes. Because every time you do a deal, especially if you're going
+to do fairly cookie cutter deals like say, you're in multifamily, and you're going to keep doing multifamily, then most of
+what you do in a multifamily deal is going to be similar. There's every deal has its own nuances, | get it. But it’s
+different than if you're going okay, I'm going to do a ground development project over here, I'm going to do a
+conservation rights deal over here, I'm going to do an ATM machine deal over here, I'm going to do mobile park over
+there, you know, you don't get a lot of leverage, because you're bouncing all around. So if you're going to be the
+operator, you definitely want to make sure that you have a strong procedures, if you're going to invest in an operator,
+| don't think it's a bad idea to understand how they operate and how secure their operations are. If you are going to
+take a trip from here to the moon, or even if crossed the ocean. There are probably certain key systems that you
+would want to have strengthened redundancy on! mean, Randy, you jump out of airplanes. Pretty sure you wear
+
+more than one parachute just in case. Right? That's kind of standard.
+
+22:23
+
+The use a two jumps ago. Yeah. So
+
+Russ 22:26
+
+there you go. And, and then also you have, you know, airplanes, | used to work on cars and hot rod cars and kind of
+the ultimate and hot writing a car was to use air quality aircraft quality fittings, and tubes and pipes. Because the
+consequences of breaking down when you're 10,000 feet in the air versus breaking down, you know, and just having
+to pull over to the side of the road. Those are two different levels. And so when you're dealing with investor money,
+and you're dealing with a lot of investor money, and maybe you're dealing either with a smaller operator or an
+unknown operator, | don't think it's a bad part of your due diligence to get a little bit of a feel how what their vital
+functions are and how they back them up. If they have a key employee walk out if they go dark, if they go bankrupt,
+are you are you ready for that? Do you have a plan B. And so having a good operational mind, even if you're not an
+© Russ 07:10
+
+| mean, a picture's worth 1000 words. So there's that. So the video is good. But when you have diagrams, that's
+helpful. If you ever watched a YouTube video, | think the most useful YouTube videos, even the short ones have
+bookmarks, and it tells you exactly how to skip to where you want to go to, to answer the question you want. So if
+you're going to go to all the trouble to bookmark a video, which would make it the ultimate inefficiency and
+usefulness, it's not that much more effort or maybe a different effort to go ahead and just created a document. Also
+documents are easier to keyword search, depending on how big it is. If you're looking for something in particular,
+break it up into headers, it’s just easier to index then then a video is. So now with all that said, and again, I'm out of
+my expertise right now I'm just thinking on the fly. But to me if you've got somebody who says hey, I'm willing to
+
+make the video, but | don't want to sit down and make this the written SOP because I'm running around with my hair
+on fire, then | know when we first started this, | wanted to have procedures. And it was just Stacy and | and Stacy
+wanted to have procedures, but she didn’t want to write the procedure. So we got we got assistants who actually did
+the procedures. In fact, | can tell you, and | think Stacy's mentioned this before and correct me if I'm wrong stays. But
+| don't think you actually ever wrote any of your own SOPs, you had the team members do it. And that was
+important from the standpoint of him internalizing the content. So you did the video to show how it is done. And so
+to me, and again, feel free to override me, Stace. But to me, it seems like if you have the person who's the primary
+person doing the job, create the video, and then you hand it to whoever their backup is. And every vital function
+should have a backup. If it's not redundant, you're not secure, then whoever's doing the backup can be the one who's
+tasked with creating the process. And at the very least, the act of writing the process from the video forces them to
+have watch. It's like when you were a kid, or just like when you were a teacher. And you know, what you would do is
+you'd say, hey, read this book and write me a book report. Right? Just writing reading the book wasn’t enough. Right?
+Write me a book report. So | know that, you know, you know what's inside the covers, not just that you you know, put
+the time in that you actually were able to regurgitate it if you will. So Stacy, did | talk out of school or is that pretty
+
+close?
+
+@) Staci Gray 09:24
+
+That's pretty good. | think also, | have found just this is not really related to SOPs, but | have found in leading teams
+that when you get pushed back, what they're what you're experiencing as what they're pushing back on isn't really
+what they're saying is they're saying, | don't have time, | don't have capacity. I'm stressed out. I'm overwhelmed. |
+don't like doing it. They're saying something else. They're not really saying what they're saying. So that's why I'm my
+first question is why really getting that pushback? Yeah. Is it because they don't see the value in it? Or is it because
+they just don't want to do it and they | think their highest and best use is something else. They think it’s below them,
+you know, there could be something else there that you might want to dive into, because that could lead to a culture
+issue. And that could be a bigger issue besides just not wanting to do this one thing.
+
+A 10:15
+
+Right, | think | think it's pretty simple for us, | mean, we've got VA is to write those things down, and we can just send
+the video off to them, they can take care of it. | think he’s just, you know, not following through right now, at this
+point in time with at least getting those videos to ask or whatever we got to do the system of offloading. He certainly
+is he’s running around with what little airy has on fire. But, you know, it ultimately is one of those things more where
+it's just more of a follow up process. | think that he needs it. And just | think, honestly, he doesn't see the necessity of
+it, because the team he's working with love the videos and so, but | think honestly from me, like you say updating a
+
+backup, all those kinds of things. These are real good reasons why | think he, you know, will
+the video, you know, this happens to be just a few people. But, you know, I'm wondering if you could help provide a
+
+little bit of insight as to, you know, why it's important to have that written backup or that written SOP? So | can at
+least, you know, justify why it is we're doing what we're doing so
+
+© Russ 03:07
+
+sure. Well, I'm not going to answer | don't have a lot to say on the subject. I'm definitely going to hand this one over
+to Stacy,
+
+© Staci Gray 03:13
+
+why are you getting pushback?
+
+03:15
+
+JO
+
+Well, largely because he's going well, | do these SOPs, | make a Zoom video of it. And then | just have them watch
+the video. And they're good with that. He says | don’t even know if they'd ever read it. So, you know, | think having
+the video is fine. But you know, in my opinion, it's if you're gonna try to train a monkey, it's kind of good to have the
+
+written background or a fee for some running or whatever reason, you know, leaves, and I've got to have somebody
+else in place, perhaps that might be beneficial as well. So,
+
+© Russ 03:48
+
+and Randy, before you became a syndicator, what did you do for a living?
+
+03:52
+
+Was a band director?
+
+JO
+
+© Russ 03:54
+
+Yeah, you're a teacher? Yeah. So you're qualified to have an opinion on what it takes to teach somebody? Sure. Hmm.
+So you might trust your own judgment to a large degree. But Stacey didn't mean to interject. | just thought that that
+
+was funny that somebody who's never taught is telling a teacher what it takes to | think your turn was teacher
+monkey. Actually, he's
+
+A 04:15
+
+a he was a he is another teacher. Right. Okay. Our whole team is full of teachers. So yeah, so
+
+® Russ 04:21
+
+did did did when he trained his students. did he teach bv lecture onlv or did thev have textbooks and Exactlv. veah.
+going to have that kind of information. And that creates a liability. And since we're talking you might as well make
+sure that when you're putting together your insurance policies, those policies, if you have data breach insurance,
+which your should are going to ask you what your data security policies and procedures are. And they may even
+want you to attach them as as an addendum to your application. So be prepared for that if you haven't already
+gotten there. And so | think one of the things that Stacey maybe you can do as you work through with people is take
+a look at what people are doing and how they're handling it, come up with what you think are best practices work
+with some of our advisors, because | know we need to clean it up on our end. And I'm sure that most of the people
+who are watching this at this stage of their development, certainly people on the call probably need to clean it up to
+now with all that said, Do any of you on the call? Do you have any policies, procedures, any experience in any of that
+with respect to digital assets and data security? Or did | just open up a whole big can of worms for you?
+
+(s) Staci Gray 32:44
+
+Well, not so much for me, because actually, when | do it with the brands that we work with, we most of them work
+with Mauricio, and we, they ask him how we're setting it up is okay. And Raisa said yes. So we get legal approval to
+make sure that our structuring is secure. And so we have a whole protocol for where different items are stored. And it
+has been fine. It's been fine so far, but everyone that needs to check with their own legal team to do it. But
+
+@) Janna Hubbs 33:16
+
+we use Maroussi Oh, and Julian and | think that our process is secure as well. But | want to go back on what you said
+as far as need data breach insurance. Yeah. Is that through, you know, and b&o is
+
+& Russ 33:32
+
+liability. | know that your liability policy probably because because the liability is is that you are entrusted with
+confidential data, you have a degree of responsibility to protect that data. And if somebody breaches your data
+systems and accesses that data and somebody is harmed. And again, I'm not a lawyer, but then they could have a
+cause of action against you. And so in that case, you would want to have an insurance policy that would stand up
+and pay for your defense and settle any judgments if that came up. So that's a discussion you probably start out
+having with your insurance broker. Or what | would do | like to start with my attorney because that way, if if | have a
+gap in what I'm doing, whatever | discuss with my attorney, when | reveal my flaws, is confidential. If you say
+something to your insurance broker, having been an insurance broker, they have responsibilities to the carriers to
+disclose what they know, your attorney does not have that responsibility unless you're breaking the law. If you're not
+breaking the law, if you just have sloppy systems, then you can find out exactly what you need from your attorney
+first. So you have a compliance attorney is an SEC attorney like Mauricio and I'm not saying ratio is not qualified to
+give you this but | would ask him point blank if he if he if he feels that he is because I'm talking very specifically
+about current Which counsel, somebody that would be defending you if you had this kind of breach. And, you know,
+when you're going through and doing the SWOT analysis on your business, and you're trying to figure out where your
+strengths, weaknesses, opportunities and threats are, this would obviously be categorized in a weaknesses category
+until you fix it, the minute you fix it, and you're proud to proclaim to everybody how strong your systems are, it
+becomes a strength, it becomes a selling point. If I'm out there competing with you, and | have great bookkeeping.
+And |, you can call me and | can give you | can, within 30 minutes, | can send you a complete file, detailed of the
+books and everything that goes from being a weakness to being a very competitive strength, because another
+syndicator might not be able to do that. If by the same token, when I'm someone's turning over their financial
+information, | am telling them and bragging about the strength of my data security systems. I’m not telling them that
+other people have bad data security systems. But I'm making it a strength that which makes them question, | wonder
+if that other guy has that. And then they go talk to the guy found out that he doesn't, you haven't thrown him under
+JO
+
+JO
+
+the bus, you've just sold strength against a potential weakness. And my experience in business has been most
+marketers most deal people are very, very weak and bookkeeping, operations, data security, lot of the structure,
+they're just bad at it, because it’s just boring and seems to be unprofitable. But if you can put it in the context that
+you can put this work in the context of making a weakness, a real competitive strength and look at it as a marketing
+edge, it makes it a lot more fun to work on. Because you can go out there and sell this as a strength. So | would start
+| would start with, with with coverage counsel. So when you're going through the process, what you're doing is you're
+building a team, you're like, Well, who would | talk to? Well, you might start with coverage counsel, or you might start
+with Well, let's see if | just got sued for a data breach, who would | call, if you don't know who to call and your team
+isn't well rounded. If you do know how to call who to call, then you know who to call to get the answer to this
+question. And then they can refer you further down the road. And then once you kind of get things figured out what
+it is you should have and get the basics in place, then then do you can approach your insurance carrier and say, hey,
+| want to make sure that I'm covered for this. And when they tell you that you are then you say show me where in the
+policy that so and then you take that to your insurance coverage Council and say, hey, my broker who's not qualified
+to give me legally binding advice, is telling me that my cover my policy covers it, I've read it. Maybe, but I'm not so
+sure. Would you give me your opinion, please. And then when you get an opinion from somebody qualified to give
+you such an opinion, who'd be in a position to defend you if that policy got triggered, and whose Eno insurance
+would, would cover you if they gave you bad advice. Now you're really covered. Now, you may not do that for you
+know, non accredited investor, if you got a little fund and you know, how damaged are they going to be? | mean, it
+could still be bad. I'm not saying don't do it. But when you start dealing with high net worth people, you want to
+make sure that you have tight tight stuff. You want to be pro. So yeah, | never know what's gonna come up on these
+calls. But | think that was a fun little rabbit trail to go down. Maybe any questions or comments about that? | know,
+John, you have a little bit of background, not as a lawyer, but in the study of law. Anything you can think of that |
+either misspoke or could be better said. You're muted.
+
+38:37
+
+No, | actually, | am a lawyer. | just don't practice law. I'm licensed. | was sitting here thinking great legal advice.
+
+Russ 38:50
+
+Well, sadly, | have been in a lot of situations and I've learned things the hard way, but that's why we do the club
+because Robert and | paid full price for some of this wisdom and you guys get it for a fraction a small fraction of
+what it cost us. Okay, well, good. That's good to know. Okay, I'm not sure where we're at timewise just do a quick
+time check. Theoretically, we have 20 more minutes we don't have to use the whole time but | Stacey and | are
+dedicated to you until then. Anything else that any of you came into now we've triggered that you'd like to discuss
+operationally?
+
+ao:22
+
+I'd like to know more about the G Suite thing if you want to go down that rabbit hole but just really what we need to
+be looking at their that'd be cool.
+
+Russ 39:31
+Okay, | will punt to Stacy on that one.
+January 2021 - Ask the Mentors Q&A Call on Business
+Operatio...
+
+@ Tue, 10/26 1:26PM @ 59:36
+
+SUMMARY KEYWORDS
+
+people, sop, stacey, deal, g suite, shared, stacy, operations, drive, email, business, accounts, systems, create, written, randy, data,
+
+files, organized, process
+
+SPEAKERS
+
+Russ, Janna Hubbs, Staci Gray
+
+) Russ 00:17
+
+A syndication mentoring club it's for us. We are here for a another edition of Ask The mentors. And today we're
+covering business operations. January, mid January, actually, it's Inauguration Day 2021. So we are now inaugurating
+a new year for all of us and trying to get ourselves organized, usually the beginning of the year, my New Year's
+resolution among many other things is to get, get my act together. And so operations is about getting your your
+business act together. And as they say, the devil is in the details. And so | am not the world's best operational person,
+| think | could do it. But | don't have a good time splitting activities between marketing and operations and
+accounting. So | like to just focus on marketing and business development, being creative. And | count on people a
+heck of a lot more smart than me to work on keeping things organized. And for me that Stacy and her group, and
+then | think that she she has learned a lot over the years. And now that she’s really working with syndicators, she's
+got a lot to bring to the party. So it was one of the big promises we made when we started the club, that we'd have
+somebody that kind of hovered over a lot of folks operations and would be paying attention to what they're doing
+kind of pulling out best practices and coaching each other up. And so | think we're already getting some of that
+going on. So | stalled a little bit there to give a couple of RSVPs chance to show up, they're still not in the waiting
+room. So we're gonna kick this thing off. Welcome, and thank you for being here. And | guess then, I'll just start with
+the question stays first, and then we'll deal with the question, and then we'll open it up to open forum or talk about
+whatever we have on our minds. So work for you. Sure, yeah. Okay, great. So this is from Randy. And, Randy, do you
+want to ask your question live? Since you're on the call, or do you want me just to read it for you?
+
+02:08
+
+I'm sure | can ask | can do that. Can you hear me? Okay. Yep. Hear You? Great. Great. Yeah, well, we were curious,
+
+JO
+
+we've been doing a lot of SOPs, and you guys had mentioned in a prior meeting that, you know, rescued specifically
+said, you know, you just rattle off something on Zoom, make a recording of it. And then it's followed up with someone
+else down the line that writes up the actual SOP based on your recording, which we've been doing quite a bit with
+not only the property management company, but all of our systems. And I'm getting a little bit of pushback from a
+couple of people, largely our property manager who says, Well, | just make the video and and they just want to see
+51:46
+
+JO
+
+Yeah, I've got one thing and shared drive. But then if | want to look up like our development project, | have to go to
+
+shared with me, because we started out with another person in charge of that he’s no longer on the team. But he's
+exactly,
+
+@ Russ 51:58
+
+but it’s still that stuff is still in his drive, and he still has access to it.
+
+) Staci Gray 52:03
+
+Yeah. And it’s super messy.
+
+© Russ 52:05
+
+So what an extra liability
+
+@) Staci Gray 52:09
+
+with shared drive, if somebody leaves, so | have admin controls. And if | want to remove anyone who's on our team is
+able to let me do it if | want to remove anyone that's on our team. So say, | want to remove this person, I'm not going
+to do it. But if | were to remove them, and delete them as a user, it'll say, Who do you want to transfer this all to? So |
+can say transfer it all to Stacey. And | want all their drives all their calendar items, all their brand accounts, all their
+
+data, everything gets transferred for to me, | am then the new owner, and everything stays where it was originally
+filed. But now | own it. So nothing ever gets lost. Oh, no.
+
+@) Janna Hubbs 53:05
+
+We don't have it set up completely. That's the so | guess | need to find somebody to help do that.
+
+©®) Staci Gray 53:12
+
+Yeah, it’s a chore, especially when you have cleanup.
+
+© Russ 53:16
+
+Yeah, well, and again, that's why the sooner you're aware of what you don't know, the sooner that you can stop
+making a bigger mess that somebody later on is going to have to clean up. You know, | operated for a long time by
+the seat of my pants. And part of it was | didn't know what | was doing. Part of it was | didn’t have time to do it.
+Right. Part of it was | decided that because, you know, the person who was going to come later was so far out of my
+radar, that, you know, | would do it good enough and figured it was all going to land on them. Well, then Stacey
+
+came along and it all landed on her and she's they've been you know, they're still cleaning stuff up. You know, so the
+couldn't really address the real problem. And so there may be more to it. So sometimes something as simple as, as a
+little bit of pushback on any task you get, this just happens to be the one we're talking about, especially a lower level
+task, maybe one that you think shouldn't take that much time could be an indication of an attitude or culture
+problem as Stacey mentioned. Or it could be an indication that somebody is completely overwhelmed. In which
+case, | think it's a great time to take an inventory of their portfolio of responsibilities, and see what you can either get
+off their plate or make more efficient, and certainly have a discussion about priority so that if they are going to drop
+a ball, they dropped the right one. Because if you come and bark at them, hey, | want you to do this SOP because |
+said so. And they elevate it to number one. But really, their portfolio should only be a number three, because you got
+two other things ahead of it. But you're not making the decision in the context of knowing what they're working on,
+you could end up pulling them off task to your own detriment. Does that make sense? Absolutely. Yeah. So it was
+really great insight Stacey had and | just didn't want to let that go without embellishing a little bit because | think it
+was worthy of extra attention.
+
+© Staci Gray 16:42
+
+JO
+
+To say | just want to piggyback off of that, | think in leading a team and you guys have kind of a bigger bigger team
+now. Right? Well, | have found is managing capacity is one of my biggest roles. Because when when you have people
+who are over capacity, and they’re your A players, they start dropping balls. And when they start dropping balls, they
+feel like crap about themselves because they're a players and they want to perform. So when they feel like crap
+about themselves, their confidence plummets, when, when their confidence plummets. They don't take action or they
+make poor decisions. And so then you're in a situation we have somebody that you thought was an A player making
+poor decisions, not prioritizing, well, being frazzled, not being a good leader to their subordinates. And it's really just
+a reflection of capacity. And so as you're kind of trying to figure out, put the operational infrastructures in place, then
+already being overwhelmed, and then having to come off of that to try to put operational disciplines in place can
+you can have some friction there. And it's really just them needing to get to a place where they know that you they
+trust that you know what they're going through, and that you are doing this all in their enlightened self interest to
+give them capacity so they can sit in their sweet spot. So it is sales to what Ross said. It's primarily selling them on
+why it's in their best interest to do it. Sure. And then on the second point is, do you guys do process maps? So not
+SOPs, but process maps?
+
+18:18
+
+No, | don't think so. | mean, nothing, not formally, | don't believe
+
+Staci Gray 18:24
+
+pulled up one. Um, so process map looks something like this. Like you have your swim lanes, your swim lane, oops,
+sorry, swim lanes, and then your big boxes of everything that needs to get done to do this process. So each of these
+will link to a sock. So | have found that oftentimes, when we're creating SOPs, we'll have a whole list of SOPs, but
+unless it's put on a process map, people will forget that we have a sop, and not even know where to go to get to the
+SOP. So having your SOPs organized, so that people can utilize them in an efficient, efficient manner is really
+important important, in addition to just creating them. So the process maps gives the give the person who's
+executing context, so where they fit in the assembly line, like who are they're getting an input from and who they're
+
+giving the output from. So it's like a relay race where they're handing off. It creates way faster execution.
+
+Russ 19:31
+© Staci Gray 39:34
+
+JO
+
+So the way we set up all G Suite accounts is based on an org chart. So we have a we don't have anybody can just
+create any folder they want. We have sales, marketing, operations, tech, finance and legal and admin. And then
+anything that is created goes into that based on the category what Over category it is. And if you have different
+team members that are only needing access to your sales drive, you just give them access to your sales drive, they
+don't have to have access to your finances, and legal drive. So it keeps things a little bit cleaner, we also create an
+external drive. And that's the only drive that we put files in that can be shared externally. So nobody ever has access
+
+to any of the other drives, if a file needs to be shared and shared from the external drive.
+
+Russ 40:30
+
+That makes sense.
+
+40:32
+
+Yeah, | suppose if | understand this correctly, then, um, one of the problems that we've had with like, say, Google
+Drive, if somebody creates, you know, a series of folders and systems within that, then your ability to share and move
+things around and change are really limited, because there's a typical owner. And that's one of the things we've run
+into is different team members have, you know, set something up. And it’s a real great asset, but then when you want
+to go in and deal with that document or something, because you don't have the, quote, ownership of that. That's a
+problem. So what you're saying here now, is that using this external drive, everybody's got free Willie, ability to, you
+know,
+
+Russ 41:20
+
+work with it. Yeah, Randy, let me jump in there real quick, because this was what | was mentioning earlier. And again,
+Stacy, correct me if I'm wrong, but we're big fans of role accounts. And so when somebody is sitting in a seat, they're
+sitting in a role. And if they're operating a Gmail, Drive or folder or collection of assets, they're doing all of that inside
+that role account, which you own and control. So they are never ever operating in their own personal account, we
+catch people doing it from time to time and they get reprimanded because it gets sloppy. But but that's a
+requirement, at least with with us is that that all of these accounts, because one of the first thing Stacey and her
+team had to do was go through, go through and unravel the big mess that | had made with a variety of contractors
+over a period of time and get things you know, from all the different nooks and crannies, they were hidden and wrest
+control from people, chase them down and get them to release the credentials and make us owners | mean, it was a
+big mess to clean up and the you know, if you're already there, then this | can tell you from experience, the sooner
+you come up with a plan, and then and then or reorganize your infrastructure to fit that plan. But the core principle is
+there that all access codes, passwords, emails, everything is centrally controlled by you and or your executive team.
+So when | have content rolling around, | code it. If | look at a file name, and it says it's got the business unit initials,
+like in my case, Treg, tr, eg. And then the next thing it says is either Mao which means my eyes only, only me, EEO,
+which means you executive eyes only. Teo, which is Team eyes only. Or otherwise, it's something that's probably
+available for Republic. And then and then what | used to do was have everything in a shared folder, things that |
+shared. And, and then of course, I'd have them in their original folder where they belonged. Sometimes | would use
+links. But anyway, | don't want to get too deep into that. Because, you know, you have to figure out what works for
+you. And Stacey probably has a lot better handle she she took my starting point or some of my requirements and
+cleaned it all up. And candidly, | don't 100% know how we operate under the hood right now, which is fine by me,
+because | know I've got someone in there that | trust that set it up according to my my high level requirements, which
+
+was we cannot have accounts with company assets owned and controlled by individuals or email accounts over
+operational person, | still think is important. | think | have a decent operational mind. I’m not great at operations
+because | don't like to get that deep into the weeds. But at least | understand the concept and the value of it. So for
+whatever that's worth. Okay, so did we beat that topic to death? Randy, is there anything more? You wanted to get
+
+out of your question?
+
+23:36
+
+No, that's awesome. | got more than what | thought | was gonna get. So that's pretty good.
+
+_JO
+
+© Russ 23:40
+
+Well, you know that our Robert and | are devoted to constantly delivering bonus time. There you go. Good. Perfect.
+So okay, well, John, you're on the call. And did you come in with a question or something you wanted to talk about?
+He just just here to be a fly on the wall? Here to be a fly on the wall. Okay. So, Stace, you have been course flitting
+around dealing with people both inside and outside the club. And you've been at this now for quite a bit, in addition
+to all the work that you've done for, for Robert and | with real estate guys, have you seen or heard anything that you
+think is worth sharing with anybody any insights, any ideas, epiphanies, big mistakes somebody made that you
+thought, boy, everybody should be aware of that | think popped your mind.
+
+@® Staci Gray 24:25
+
+One thing that | keep seeing with a lot of people that we're working with is leveraging on like digital tools to
+streamline communications with virtual teams. So a lot of people have stuff in OneDrive or Dropbox or Google Drive,
+and it’s not shareable and things are all over the place and or on their desktop and their people are struggling to
+actually be efficient in virtual working. So I've seen I've been seeing that quite a bit. | don’t know if any of you guys on
+
+the call have He struggled with that or have something set up where it's easier for you.
+
+25:06
+
+i We have definitely matter of fact, one of the things on our list to do is to get into the try to get a better sense for
+operating out of the, what is the Janna there Google? What's the pro Google Drive? We're using Google Drive, but
+
+JO
+
+© Russ 25:26
+
+it's G Suite?
+
+25:27
+
+G Suite. Yes. G Suite? Yeah. And | know, there's been, you know, in an effort to try to get more involved with that,
+because it sounds like that has the ability to share more. | mean, I've Yeah, I'd be interested to know what you what
+
+JO
+
+your thoughts are on that.
+
+@ Russ 25:44
+no.
+
+@) Janna Hubbs 04:28
+
+Jo
+
+You? Who didn't hear me? Randy did not hear you? No, | did. | heard.
+
+Russ 04:38
+
+Yeah, he heard me and he answered.
+
+Staci Gray 04:42
+
+| don't think you heard Jana who's
+
+Russ 04:44
+
+out of it here. I'm not sure. Okay.
+
+Staci Gray 04:48
+
+| think to your point, people learn different ways. And if you're looking at it from a scalability standpoint, and you
+want to organize to scale, certain that person may not be doing it forever. So Definitely having it set up so that
+whoever is going to be doing it down the line, they have different means of consumption based on how they learn.
+That's one. Second thing is, we update SOPs on the fly. So we will, as you're growing a business, as you're organizing
+as you're hitting different roadblocks, and different things come up, you're saying on a call, Hey, on that SOP
+updated, can you just make sure when you do that step, you do this also, if the only way to do it is every single time
+you had to update the SOP to re record exactly how to do it like a five minute 10 minute video, that’s very time
+consuming. So it's so much easier to keep the SOPs up to date and current when you have it written. And also, if you
+wanted to see where the breakdown was in something, it's, | would prefer to get a written thing where | can just scan
+and see oh, that's where the problem is. fixed that one line, versus me having to watch video after video after video
+to figure out where the breakdown is. So from a leadership and management perspective, it's way easier for you to
+do it based off of written, then just video and then the video could be outdated pretty quickly. If you just only had
+video and you knew you were making edits along the way, we have a process where we actually have a sop for how
+to create a sop. And then within that SOP is how to keep the SOPs updated. So we review them regularly to make
+sure that they're current. And we have a practice that if you're doing a task you are working off of the SOP, you aren't
+working off of memory. Because what somebody may not know is that a different team member had a conversation
+with somebody else and updated that SOP and it made a change, it had a ripple effect. So everyone has to work off
+the SOP, which means if they're watching a video, every time they're doing it that takes way longer than just going
+down the task list. And seeing you know 12345 doing these things. That makes sense.
+
+07:09
+Absolutely. Yeah,
+

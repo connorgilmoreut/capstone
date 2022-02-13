@@ -1,0 +1,753 @@
+JO
+
+JO
+
+that's one of the this tool is used for that purpose. And if that's the purpose, then then | think this new rule would
+would definitely help you and would eliminate the need to do that. But as Russ mentioned, there's other reasons
+people put together sub syndications and fund to funds one may be the experience, they want to get their feet wet
+with syndication, they want to go through the process, this is a good first step, get my entryway. So doing this the
+fund to fund make sense. And to there's also, you know, people raise funds to then place in multiple funds. So they
+actually want to manage the money kind of a Warren Buffett, | mean, Warren Buffett's not going to start putting
+money into serious candy, you just get a referral fee. And there you have the business, | mean, there's a difference
+between just getting a transaction just to get paid a few bucks versus actually having a real business. And with a
+fund of funds, you can go raise $100 million, or $20 million, or $10 million. And now you have now you can select, you
+can now start interviewing different operators and saying, Well, I'm going to put 10% of my fund into your deal. I'm
+
+going to put 12% over here. And you can actually be sort of the money person and have a real business. | thought
+the
+
+33:21
+
+timeline was closer than you seem to indicate. What's the timeline for that? No,
+
+Mauricio 33:27
+
+that's not in fact, you know, this will be not to get too political, because Russ doesn't like to get political. But there
+was an announcement just yesterday, maybe this is the one update Russ from the last from the last weekend. But the
+commissioner of the SEC Commissioner indicated that he was going to step down at the end of this year to allow
+Biden to elect a new commissioner, because the commissioners is already up and | think in the middle of next year,
+so who knows who the new commissioner is going to be, and maybe they have a completely different direction they
+want to go and this may all be like, you know, forget it. But this is literally just started. So this was literally a press
+release, essentially, that's all we have is a press release. And so from the press release, you're going to go toa
+proposed rule probably sometime in the first quarter of next year. And then whatever ends up being the final rule,
+assuming assuming we even have a final rule, that’s not going to be probably until the fourth quarter of next year. So
+we're about a year out for this actually materializing.
+
+34:24
+Thank you, sir.
+
+Russ 34:26
+
+So let me Excuse me, let me jump in on a couple of points there. And this kind of is going to segue into Scott's
+question that he posted in the chat. And for those of you that have questions, it’s really great if you just throw them
+up in the chat, because that way, | can see that they're out there and we can, you know, maybe curtail some of our
+conversations when we could go deeper to try to make sure we get everything covered. But with that said, | think one
+of the things a lot of these things tend to be complex or feel complex and your head might be spinning. When you're
+new, and what | had to learn to do, and it’s just always been my practice is just | take whatever the problem is, and |
+parse it into components. So when you're looking at the sub syndication thing, you know, obviously, you have to look
+at things through the investor side. And you have to look at it from there from the risk management side, because
+those people who are your investors could one day be your plaintiffs. And so you have to think about it that way. And
+then you also have to think about it from the marketing side, what what can | sell them what what is actually
+marketable, and then you look at the deal itself. And you have to start asking yourself, you know, where the
+first. And then and then we open it up afterwards. So if you ended up getting some stimulation here, and you've got
+some questions that popped up that we didn't get to write them down now, and then bring them forward to the next
+
+one. And we'll cover them down. Okay, any closing words there, Mr. Counselor?
+
+© Mauricio 57:21
+
+Nope. | think that's it. Appreciate you guys taking the time.
+
+© Russ 57:24
+
+Okay, everybody, appreciate it. We'll see you next time. Thanks, guys.
+
+&) Scott Florida 57:28
+
+And I'll see you guys take care. Thanks.
+© Russ 47:44
+
+point? Well, you would because you're a lawyer, | would hire a Florida securities attorney to help me, | wouldn't check
+and check it interpret, | would hire a lawyer to do that. But | get what you're saying you have to get it, you have to
+get your your authority from the source and the source ultimately is the state. But | would go through an attorney to
+get that authoritative opinion that you can rely on that comes with any no policy, in case the lawyer gets it wrong.
+
+And that's why you
+
+© Mauricio 48:09
+
+wouldn't go through | mean, | will help you through it. But it’s not going to be me. | mean, you're going to have to,
+you're going to want to rely on an attorney that specializes in the investment advisory act and making sure that, you
+know, they're familiar with all those rules. And so yes, 100%. You know, from an equity standpoint, obviously, the the,
+the entity would be created a syndication entity that's owning the property would be created in the state where the
+property is located. So we would create a Texas LLC, because that's where the property is located. That's where the
+business is happening. And then, of course, the form even though there's no, this is all federally exempt. And so we
+don't have to file anything, we don't have to register the syndication with the feds, we do have to provide the states
+with notice and that that state will be the states where the investors are located. So if you have an investor in
+Indiana, and Indiana, | believe happens to be one of the more how should we put it. PETA states that if you don't
+comply really closely with their with everyone's statue, which is basically filing a copy of a form D, within 15 days of
+your first sale in Indiana, then they're going to come after you for I'm gonna make a lot of noise. But at the end of the
+day, they're gonna come after you for some extra dough. And you're gonna spend a lot of money on lawyers
+responding to letters and all that stuff. But But and then of course, and then the the caveat with all of this is there
+are some exemptions that do not that rely that don't have the preemption. So there are rules out there that you can
+rely on, that will require you to go hire an attorney in every state that you sell into. So if you're selling into Indiana,
+you will have to go hire an Indiana securities lawyer and if you've got somebody else in Florida, you'd have to, you'd
+have to go hire a Florida securities attorney, if you're relying on some of these exemptions that that don't have that
+preemption, which is why we tend to avoid those because that's a lot of time and expense to go do.
+
+© Russ 49:58
+
+Okay, so, one kind of last question in that same realm is when we put together these operating agreements, and
+typically we're going to put in a mandatory mediation a mandatory arbitration clause, and we're going to establish
+jurisdiction if we have a multi jurisdiction deal where our company is where the investor is where the deal is, how
+much discretion do we have, or how much control | mean, | know that anybody on the other side can always, you
+know, | think petition or whatever the word is for a change of venue, so they can put it where they want to put it. But
+let's say you have a particular place you want to put it, you know, is there one of those three scenarios assuming that
+the deal you and the investor in three different places, that tends to be harder for folks to move? In other words?
+Yeah,
+
+ro ) Mauricio 50:51
+
+you know, that's I'm not necessarily a, you know, a contracts attorney. But it does help if the if the operating
+agreement does have, you know, a particular jurisdiction that it mentions in terms of where what law applies, but
+
+that doesn't mean automatically, that's where the law is going to apply. So typically, the jurisdiction that's going to
+apply is either the state where the defendant resides. So if they're suing the Texas LLC, then that's they'd have to file
+something in Texas, because that's a Texas LLC. If they're coming after you personally, or maybe your management
+company that happens to be in Florida, then you could file it in Florida.
+
+© Russ 51:28
+
+But wouldn't you your management company, if you're doing a deal in Texas, would you be registered to do business?
+Or if Is it good enough that the holding entity, the the operating entity that holds the deal is registered in your law,
+typically
+
+© Mauricio 51:40
+
+only the only the LLC that owns the property that would definitely be either set up in that in that jurisdiction? Or if it's
+set up somewhere else you would register it to? Like in the Texas example, even if you created something in Nevada,
+or Wyoming, you would have to register that LLC to do business in Texas? Because that's where the asset is located.
+The management company, it just depends on where again, where are you physically located when you're making all
+the decisions? So if you're, if you're spending a lot of time down in Dallas and flying in Texas, flying down to Texas
+and making decisions in Texas, and but that it also depends on the state like Texas is pretty laid back. They're not
+they're not California, right? In California, you look in their direction, and you're doing business in California, Texas is
+not that strict. | mean, you can actually open a bank account in in Texas, and they won't consider you doing
+
+business. But if you even look in the direction of California, you're doing business in California? Yeah, the jurisdiction.
+
+© Russ 52:31
+
+So we avoid California at all costs. So we've I've got a hard stop at top of the hour. And we've got six minutes left.
+Scott, you had a question related to legal structure moving from portfolio to deal one state to another multiple
+
+states? Did we already cover all of your question? Or is there more in there that you wanted to ask about?
+
+® Scott Florida 52:53
+
+Well, just clarifying. So if I've got 10 homes in Tennessee, and | got 10 homes in Arizona? | do | have to have to LLCs
+with those two different states. How does that work? Do you bring extra costs in when you start expanding your
+offering outside of one location, particularly one state
+
+ro ) Mauricio 53:18
+
+wasn't clear if you if this is an offering that you have 10, or this is your own personal portfolio that you have 10 that
+you in addition to an offering?
+
+© Scott Florida 53:25
+
+I'm talking about trying to create an offering. So like, for example, | want to put something out, and | find 10 homes in
+Memphis, and | find 10 homes in the Phoenix and put that package together to be one offering. Yep. So what are the
+what are the changes in the costs and legal structures and stuff, so that
+&) Scott Florida 15:39
+
+So when it comes to the capital that you raise at the beginning, whether it’s a blind fund or just a regular deal
+focused fund, that money that you're raising at the beginning, that goes into obviously goes into an account, but is
+there a expectation of a return? Or do you have to spell out an expectation of return? | mean, especially when you're
+when it’s related to the blind fund, but even in a regular deal focused fund? Do you have to write something into the
+plan that details out how that money is going to return? Or what it's going to return? Or if it’s going to return?
+
+o ) Mauricio 16:20
+
+Yeah, great question. In a, in a blind fund, that’s an issue. Because if you're sitting on money in a bank account, then
+the question is, do you want to give them some small return while it's sitting there? Do you just tell them, hey, we'll
+make it up to you on the back end, if it takes a while, that's, that's something you would spell out in a blind Fund,
+with a project specific most of the time, you're getting a percentage of the income, right percentage of the net cash
+flow. So until net cash flow comes in, the investor is not going to be entitled to anything anyway. So it’s only until the
+first money's come in, and there's actually cash to distribute, that’s when you start getting 80% of the investors or a
+preferred return or whatever your structure is, you don’t have that issue. But with a blind fund, it is an issue, you may
+be sitting on a million dollars in the bank. And after six months goes by, now what, but it gets addressed in the docks,
+and it's part of your structure. And before you get too caught up in the docks, just like like Russ said, step back and
+figure out what's the business, what's the game plan that you're going to do. And then we can articulate that to the
+
+investors in the documents the way you want it done,
+
+© Russ 17:24
+
+you're always going to be balancing the legal and administrative side and the risk management side against the
+marketing side and customer satisfaction side. You know, so it’s just a constant thing, what I'll tell you the one thing
+you can't do, you can't take that bunch of money and then earn some type of interest on it. And then you know,
+collect that for your own account, right, you can't make money on their money, at least not undisclosed. So and you
+have a responsibility, wnen you have money in your possession to steward it to your the best of your ability, if it's
+possible for you to get a relative risk free return versus no return, you should probably do that. And whatever return
+you earn goes to them. And of course, in a low yield environment that we're in today, that's not easy to do. But there
+are going to be times in your career maybe where interest rates are higher, or there are vehicles that you could put
+the put the liquid capital in, that would yield a return, you may come up with a philosophy going back to what we
+were talking about having an investment strategy, that you disclose in your document, you say, hey, when we're not
+invested in a particular project, we will be parking the capital in an allocation of different currencies or precious
+metals, and, and, and cash and bank or we may have it in, you know, bonds, you know, we may use 30 Day treasuries
+to get a little bit of a yield that’s basically risk free. So they're strategies you can do to try to create a yield on cash.
+And, you know, we always assume that everybody has to have their money working all the time. But the fact of the
+matter is, if you're going to leave the money with the investor, you know, the question I'm going to ask them is, you
+know, Mister investor, when well, this cash is waiting for me to find a home for it, what are you going to do with it?
+And if it’s just going to be sitting there doing nothing, that you're not competing with what they might do, you're
+competing with what they plan to do. And if they're just going to leave it in the bank getting nothing, you say, Well,
+you know, | can pull it together. And | could roll it in 30 day treasuries, which is good enough liquidity for my
+purposes, because | probably won't be in a situation where | need cash faster than 30 days, and | can put your cash
+to work and maybe that administratively would be too much hassle for you. But if you intend other investors do it
+and | managing a $10 million or $5 million fund, it’s, it's okay for me to do it. And I'm happy to do it because what
+that gives me is certainty that | have the liquidity | need when | find the deal I’m looking for what it gives you is a
+Mauricio 24:08
+
+Well, | think the first thing that the last thing you said would be a red flag. | mean, if you're going to be investing in
+somebody else's fund, right and somebody else's syndication, then your primary obligation is, is to do the due
+diligence on the sponsor, right. And, you know, that's probably step number one, that's actually what you're getting
+paid for. So just to be clear, a sub syndication, sometimes we call it a fund of funds, where you're raising capital into
+your fund pursuant to some exemption 506 B 560. You're doing that raising the capital legally, that’s no different
+
+than raising it for the blind fun. Again, it's the raising the money. In this particular case, instead of instead of buying a
+piece of property with that money, you're doing a blind fun, you are going to be buying essentially limited
+partnership interest in a sub thumb and in somebody else's deal. So you're actually buying securities which is which
+will which I'll talk about a second. But instead of buying real estate, we're no longer buying real estate, we're buying
+securities, we're buying shares in somebody else's company, you're getting compensated, at least for three different
+things. One is the due diligence. And it's not just the due diligence on the actual investment, but obviously, the due
+diligence on the sponsor. So you've got to make sure that you're doing a bang up job there. So to the extent they
+have a deal, somewhere it most subs indicators will get on a plane, maybe not these days, but they'll get on a plane
+and travel down and actually observe the operations and do the due diligence. Again, your investors are busy
+people, that's what that's what your force is to do all that heavy lifting, I'm a busy professional, | don't have time to
+get on a plane, | don't have time to vet the sponsors, go meet with them meet their operations and meet the deal. So
+that's number one. The next thing you're getting paid for. Oftentimes, when you're doing a sub syndication, you're
+coming in with relatively a large amount of money. Even if you're not raising a particularly large amount, let's just say
+you're raising a million dollars, most of the investors probably in the fund that you're investing in are putting in 50,
+grand or 100 grand. And so you're coming in with a million dollars. And that's you get the benefits of that power of
+the group concept. And you're typically able to negotiate better deals, because one of the things you got to be
+aware of is like, Well, why would somebody invest in your fund, that's just gonna turn around and invested in the
+other person's fun, why don't | just skip you, and go straight to the other person, right. So you've got to have that as a
+as a, as something to talk to the investor about one of the things you can do his again, negotiate better terms. So
+maybe the general public goes to this or not the general public, but the investor goes into this other deal. And they're
+getting, I'm making this up, but they're making 8% pref or something, or they're getting an 8% return. But because
+you're coming in with a lot of money, this indicator down there says I'll give you 9% or 10%. Or I'll give you some
+other benefits that generates more return for your fund, which in turn allows you to get compensated but also may
+allow your investors to get a little bit better deal because they went through you. And then there's a lot of instances
+where the the deals fantastic, but the minimums are high, you know, maybe this is a really great deal. But the
+minimum is $250,000. And so the regular investor doesn't have 250, or doesn't want to put 250, your particular fund
+may only have a $50,000 minimum, which now allows me to get into this deal that | otherwise wouldn't get. That's all
+the value add things that you are doing on your end, that's what you're getting paid for. So those are the things
+you've got to really focus on to make sure you're limiting your your exposure, but But honestly, you can only look if
+the if the main deal goes south, you're probably going to be in a world of hurt anyway, because you're making the
+decision to invest with the sponsor in this deal. And if it goes out, they're gonna look to you, you know, why didn't you
+do a better job, vetting the deal and vetting the sponsor. And then just real quick, just, | would just want to touch it, |
+don't wanna get too too in the weeds. But because you're buying shares in a company are most likely, you know,
+membership units in an LLC, but it’s not a stock that makes you an investment advisor from from a legal perspective,
+you now are actually advising people even though you don't think of advising, you're telling your investors that we're
+going to go invest in a security, which makes you an investment advisor, which means you just have to look at
+whatever state you reside in what state are you in John, Florida, Florida. So you | have no idea what the rules are in
+Florida, but we can easily find out what the what the rules are in Florida that would exempt you from having to
+register as an investment advisor, which is probably not what you want to do, you don't want to register and become,
+you know, subject to all those regulations. So every state has it has exemptions. Some of them are really easy and
+not a big deal. Others will put some limitations on what you can and cannot do and you're at your at your end. For
+example, the most common one is you may be limited to accredited investors only. If you're going to do some kind of
+a sub syndication depending on the state you're in.
+because that'll bode well for funding, it'll bode well for insurance, it'll bode well for raising money, you start to build
+your resume before you build your business, you got to build your brand and build your network, at least that’s what
+I've heard. So once once you kind of understand that basic concept, then let's say you do decide to do a blind fund,
+then from a marketing perspective, and | know this isn't about marketing, but | can’t help myself because that's
+where | live. You have to understand from resales point exactly what it is you're selling. And you're selling an
+investment philosophy and investment strategy and an investment team, including yourself. And you have to ask
+yourself based on your current resume and current team, are you strong or weak in that area, because again, this is
+not a business of doing a bunch of transactions, you're here to build a business. And building a business is about
+building a brand, building a team building a network, and then you do transactions. And you you, you build those by
+doing transactions. So you're strategic with every transaction you do in the beginning, as it’s playing a piece and
+building all of that out. Once you get it all built, then you can do a lot of different things. The challenge that | see a
+lot of young syndicators do is they try to jump in, you know, further down the line, then they're really there and they
+don't lay a proper foundation. And then they find it very hard to market to get loans to get insurance to be able to
+even execute because they don't have the skill set. And they put themselves behind the eight ball. So if you do it
+right, | think you can eventually get to a blind fund. | think that's the ultimate destination. | you know, personally,
+because now you have all kinds of discretion. This is like a Warren Buffett, nobody asks Warren Buffett what he's
+going to do with their money, they trust Him, they give him his, they give him their money. And they know he's going
+to do what he does, because he's got a long history of doing it. But but you know, last time | looked, you're not
+Warren Buffett yet. So | think that, you know, just understand that where you're at each of you probably many of you
+watching this in your career are at that place where you're just trying to get that that brand built, you got to get that
+team built, you've got to get that investment philosophy really clear. And then what | teach in sales, How to Win
+funds and influence people is important. And | talked about this with a little orange with the the apple with the
+orange zipper on it. The idea that you want to make sure you match your investment philosophy for your fund what
+your investment objective is, with the investment philosophy or investment objective of the individual investors you
+put into that fund. So not only do you have to be good at articulating what it is that you plan to do, but you have to
+be really good at uncovering from them what it is they want. And most people are not going to be that clear. And
+you don't you're not a financial planner, you're not in visor, you're going to step into a little bit more of that role.
+When you are managing a blind fund because people don't know what you're going to do. You have to make really
+sure they're clear about what it is you intend to do and how it matches to them. And that comes to this other
+question which circles back to legality. And that suitability Murray CEO talk this weekend about fiduciary, which is a
+responsibility to put the investor interests above your own, always do what's in the best interest of the fund of the
+investors. And the second one is suitability, which means you don't put anybody into anything that isn't suitable for
+them based on their ability to take risk based on their level of sophistication based on their investment objectives. So
+you do have quite a bit of responsibility that you need to get up to speed on and all the components of that are in
+our program. You learn how to do it all but you got to kind of learn to crawl before you can walk and you need to
+learn to walk before you can So any closing thoughts on that? Topic resume,
+
+© Mauricio 15:03
+
+| just want to echo echo what you said that it’s much harder. Clearly, | mean, Mike, just in my experience, it’s much
+harder to raise money for a blind pool. So you typically don't start there. If this is your first indication, blind pool is
+not the way to go. The way to go is either a, either a sub syndication as you may, or maybe you syndicate one of
+your own deals, you know, when your own property, something easy like that, but you know, it’s great to have money
+in the bank. But that’s not where you're going to start.
+
+© Russ 15:27
+
+Great. Now, before we move on to a new topic, does anybody have any questions or comments about this topic? Go
+Going once.
+that's been presented. Basically, when we talk in the very first segment that | do about the essentials of syndication,
+or fundamentals of syndication, one of the things we're talking about is the decisions you have to make whether you
+want to syndicate an individual project, so you've pre identified what you're going to do. And then you underwrite
+that and present it to people, or you're going to do what's called a blind fund, where you're going to raise money.
+And then you're going to make investment decisions after the fact based presumably, on some form of investment
+objective so that people kind of know what they're getting into. But you're you're not constrained. The pros of doing
+the former are that some of the risk, and I'm sure Maria will comment on this. It reduces some of your risk, because
+people are not just vetting you as a manager. But they're also vetting the deal. They go in with their eyes wide open.
+If the if the project fails for whatever reason, or has troubles or underperforms, at least they had the chance to know
+what they were getting. Some of your professional judgment may be called into question, but not as much. The other
+side of it is with a with a blind fund and you got a pile of cash sitting there, you can move a lot quicker, because you
+don't have to worry, you know, you might make decisions, if you like the deal to be able to go in with lots of cash or
+go hard and not worry about your ability or inability to raise money and hit certain time marks. The dark side is is
+that if the deal goes south, then potentially your investors could definitely call into question your professional
+judgment, not just your ability to execute on a business plan. So those are kind of the pros and cons and the basic
+
+differences. But now I'll let Mauricio get a little bit more into the weeds.
+
+Mauricio 04:10
+
+Yeah, we Yeah, like you said, when the student is ready, the teacher appears. | think we also have a video on this,
+which if we don't we should have it on the platform rather than specifically on on the fund issue in addition to the
+syndication seminar. So let's take it from the original question, which is really on the legal side. The same rules and
+regulations apply whether you're raising money for project specific, which is what Russ was talking about initially, or
+blind fund, or anything. | mean, remember a lot of people are raising money for other non real estate stuff. So no
+matter what you're putting the money to do, the act of raising the capital, that's where the regulations come in.
+What you do with the capital is a separate question, but the raising of the capital initially, that's where we go
+through the analysis of, you know, do you register it? Do you find an exemption |s it illegal and we go through alll
+these exemptions, so the exact same exemptions are going to fly. The main difference, though, so you're gonna see
+very similar paperwork, there's obviously going to be some risk disclosures that are going to be unique to a blind pool
+offering. And | would probably recommend, because of what Russ mentioned, in terms of the additional risk to you,
+in terms of your decision making ability, questioning your decision making ability, because they don't, they really are
+betting on you, right, they have no idea what you're buying, they're betting on you, you may want to think about
+limiting yourself to accredited investors only. That way, you know, they are presumed to be big boys, big girls, and if
+something doesn't work out, it's like, hey, you know, you knew what the deal was, you knew what you were you were
+relying on my decision making abilities. And the fact the extent you didn’t agree with that, you know, that's that was
+one of the risks that we had. But the main difference is going to be on in the in the business plan, a business plan is
+going to look a lot different from a blind fund than a project specific because, as Russ mentioned, on a project
+specific, you're showing them the pretty pictures of the property, you're showing them sort of a specific use of funds
+and a specific business plan, like here's what I’m going to spend on upgrading the external units of the internal, you
+know, we're going to add this, we're going to do that we're going to, these are all the things we're going to do to
+specifically add value to this particular property. And then a lot of folks will actually have an actual pro forma, right,
+with a bunch of assumptions. | mean, the amount of assumptions that go into a pro forma are extensive, which is one
+of the things we really focus on, when we're raising capital, making sure we're disclosing to the investors all those
+assumptions, but I'll give you a classic one, you're going to make an assumption of how much rent, you think you're
+going to be able to raise from the time you acquire the property to the time you stabilize it. And that's an assumption
+you make. And as an investor, | can look at your assumption and say, Yeah, you know, Russ thinks he’s gonna raise
+rents 5% in year one, | think that's a little bit too aggressive, I'm gonna, I'm gonna assume he's only gonna be able to
+raise the rents 2% Or maybe in today’s environment, he’s not going to be able to raise rents at all because of what's
+going on. And so! can actually make as an investor, make some adjustments to your assumptions, | can look at your
+p&l or your performance, and | can make it more conservative. If | want to, | can make it more or less conservative, |
+opportunities are, and what you bring to the party. So you look at the different part people you say, Okay, what am |
+what am | providing? What value am | providing to the investor? And we always have salespeople have to discipline
+ourselves to do that, because the temptation is always to think about what they can do for us. That's just the way it
+is, right? We think we need their money we want to do what do we want to get paid? We want this on our resume. It's
+always about Oui oui, oui, mee, mee, mee II. And you don't ever forget that you won't ever forget that you don't have
+to worry about that, you have to really discipline yourself to look at it through the other party's point of view. And in
+this case, you get two different people at the table. And there's other people at the table to like the SEC and the IRS.
+| mean, there’s other people, your team, there's a lot of people at the table, the key is to try to get a 360. So you ask
+yourself, well, if the investor could go put their money directly in this in this deal that I'm going to put the money in?
+What value have | added? No, I'm not saying you haven't. But you have to be prepared to justify that. The other thing
+you have to ask yourself is if | bring some money to this guy that’s going to carve out room in his deal. And if it's a
+hot deal, he’s probably not having a hard time making money. So you're going to have to bring something to the
+party to earn your seat. You know, if you're out there raising money for a deal he can't sell it could because he’s lousy
+at selling, you have a better brand, you have better network, you have better skills, or it could be the deals not that
+great. And you have to be aware of that. One of the things that we talked about was the importance of of doing the
+due diligence. Well, you know, in the law, there's, you know, again, we talked about responsibilities of being fiduciary
+and reasonable care, there's a whole host of legal lines of attack that plaintiffs if your investment fails to perform,
+can take to accuse you of some type of gross negligence or malfeasance. That's the two ways that they typically
+penetrate the corporate shield. So you want to make sure that whatever due diligence you're doing, you're actually
+paper in your file with it and becomes a very important part of your file. Just like if you were putting together a deal
+specific fund, you would be papering your file with all of the due diligence you did on the deal. Well, you have to do
+that same thing, when you're doing due diligence on the operator and their deal, you have to remember, just
+because you did it, if you can't prove you did it two years from now, then it's almost like you didn't do it. So just be
+aware of that. Now, there are some things you can do to mitigate some risk. If you're going to bring some money in
+and you got a little bit of clout, you might insist that your name does an additional insured on the on the syndicator,
+the main syndicators insurance policies, you may want to have your counsel, talk to their counsel and make sure that
+your operating agreement, you know is congruent with theirs. So there's, you know, again, we don't need to get
+completely in the weeds, but | just want you to see and the key to knowing how to ask the good questions, is is not
+just to dive into the bowl of spaghetti and start flailing around, parse it, look at it through your eyes, and think about
+where your risks and opportunities are and what you want and get that out on the table. Then put yourself in the
+seat of the potential investor and look at the risks and the opportunities and the value add that you're doing. And
+then do the same thing with the, with the syndicator you're thinking about putting money into and try to figure out
+that SWOT analysis, you know, what your strengths are, what your weaknesses are, where your opportunities are,
+where those threats are, and then start coming up with strategies to capitalize on the opportunities and mitigate the
+risks. And if you start thinking that way, just as a matter of practice, you will begin to be able to look into the future
+and see where the potential line landmines are. And you know, where the low hanging fruit is, and you'll see it sooner.
+Often, we don't see it soon enough, because we just get lost in the weeds. So you know, | don't know if that was very
+specific. But I've just found that that is such a helpful way to approach these, you know, what seemed like complex
+problems, just break them into pieces and attack them individually from from an opportunity, obligations and risks
+perspective. And then think about always creating good documentation both in the accounting in the due diligence
+in the memorializing the understandings that you have with your investors and with all your counterparties all of that
+and that's just again, discipline. And the other thing that | would highly recommend for everybody, which isn't
+necessarily specific to sub syndication is keep a CEO log like a diary. And keep that and every time you're making
+business decisions, you know, write down and record your rationale. What you were thinking, | call it the What the
+hell was | thinking lock. And you know, I'm not saying you ever share that with anybody but for your own peace of
+mind when you start juggling a lot of things, you know, you forget what you were thinking you made a decision. And
+you know, for me, | go through a logic process, | get to the decision, | make the decision, and | forget how | got there.
+|, you know, | remember what the decision is, but | can't remember why | made the decision turns out to be a great
+decision, maybe | could replicate it, maybe | can't, because | can't remember how | got there. But worse, if it's a bad
+decision, it's hard to get the lesson when you don't really know what the what the flaw in your thinking was. And
+
+don't again, don't assume that you're going to remember all this stuff. So just it’s a great discipline to start keeping
+JO
+
+much, much, much better records than you probably do in what | would say, for most of us is our small little lives,
+where we're managing our own money, and maybe a few investments. And we're managing a small number of team
+and we're managing a small number of decisions, when it starts getting bigger. This discipline of keeping these
+records is going to be really important to you. So anyway, Nuff said on that. So Scott, let's flip over to you. So can |
+
+just
+
+Scott Florida 41:22
+
+ask a quick follow up? Yeah, sure. | know. So if | was hearing what Marissa was saying there, if, if we're gonna do a
+sub syndication, one option is going to be create the another deal syndication so or entity. So it's going to be like
+15,000, just to get that started. And then you start bringing in your investors and you got to overcome that bump, in
+order to get to a decent return. Or you can just try to depending on the relationship that you have with that the
+person your sub syndicating with, you can go directly into the deal, or bring those investors directly to him or her and
+work directly that way. Is that am | understanding that correctly?
+
+Mauricio 42:12
+
+No, you're no, no, because the first parts correct, | mean, you've got you're going to be again, just like any other
+syndication, you're going to be raising the capital, you're most likely going to take an acquisition fee, you've got legal
+fees, you got CPE, but all those startup fees that you would have, which has to be taken into account. So if you're
+going to invest a million dollars in the sub syndication, you probably need to raise 1.1, or something, a 1.05 or
+something. What we're talking about in terms of working directly with the sponsor is something that potentially
+could happen in the future, it doesn’t exist right now. So there's a rule, a proposed law that would allow you in the
+future if it if it passes. And if it passes in substantially the same format it is right now that's proposed, that would
+allow you to simply refer those investors directly to the sponsor to the sub syndicator, or the Syndicate, the main
+syndicator, and they get compensated for that referral for that introduction for that finding the investor, you could
+get paid for that. But that’s, that’s not a syndication, that would just be you're just, you're getting a referral fee for
+referring investors, you know, to that main sponsor.
+
+Scott Florida 43:15
+Okay. So you can still do that you just wouldn't get be able to do anything with the referral fees, or, you know, right
+
+now,
+
+Mauricio 43:22
+
+you would not be able to you could do that right now, you just wouldn't get compensated for it, right?
+
+Scott Florida 43:26
+Yep. Okay. Yep. Very helpful.
+
+43:29
+
+You could make an arrangement or ratio or not, I'm asking the question, Where somehow you're working, let's call it
+November 2020 - Ask the Mentors Q&A Call on Legal
+and Compli...
+
+@ Wed, 10/27 3:02PM @57:41
+
+SUMMARY KEYWORDS
+
+syndication, investors, money, deal, fund, llc, question, people, syndicator, business, exemption, raising, property, blind, cash,
+
+state, invest, mauricio, risk, compensated
+
+SPEAKERS
+
+Russ, Scott Florida, Mauricio, Alex Petkas
+
+) Russ 00:16
+
+Hey syndication mentoring club. It’s Ross and we're here for another edition of Ask The mentors and this one is legal
+and compliance along with our resident. Syndication attorney, Mauricio, Ronald. Hey, Mauricio, Al you guys doing?
+We are good. Happy to be here. And excited. We have only one question pre submitted by Alex are a student who
+seems to always have a question. So which we appreciate. And of course, we just got back from a great time in
+Dallas together, it was so nice to be together with everybody live, yeah, and see people's faces and smiling and just
+having a lot of fun. So | can't wait to do that again. But Alex, let's just go ahead and start with you. Since Mauricio
+kind of gave us a legal update. | don't think much has changed in the world since a weekend, I'm a resale so we'll just
+we'll leave that as it is. But if any of you have any questions that came up as a result of the things we receive shared
+at the meetup, and you'd like to get clarified, now would be a good time to do that. But let's start with Alex. So I've
+got your question printed out here, Alex. But why don’t you go ahead and unmute yourself, and you can ask it
+directly.
+
+o Alex Petkas 01:22
+
+Sure. Hi, everybody. Hi, Marie. CO. So my question is, how does an invest an investment funds differ, if at all, from a
+syndication? | think that maybe I'm not the only one who has been seeing ads pop up about these things? And I've
+people asking me about it, and a friend is actually interested in perhaps he's asking me if I'd be interested in trying to
+go down this path. And so I'm just kind of like trying to figure out what exactly is this thing?
+
+© Russ 01:52
+
+Okay, so Marissa, before you jump in, let me just say a couple things. One is, we really do cover a lot of things in the
+secrets of successful syndication. This is one of them. But the problem is when the student is ready, that’s when the
+lesson appears, even though it was right there. Right? | probably heard it before. Yeah, and it's fine. So I'll give you
+you know, kind of the nickel tour that | give in secrets of successful syndication. But again, it’s why it's really good to
+go back and take that class over and over and over again. Because there's going to be many things. And | know this
+from the years of doing this that people ask in the middle of trying to figure out and it’s actually been something
+© Mauricio 53:44
+
+the the fallback which is not what | would recommend, but if you just create one LLC, just pick your state, like you
+said you had 10 in Tennessee, so let's say we create a Tennessee LLC to be the syndication LLC. And then you wanted
+to put a bunch of Arizona properties in that we would have to register that Tennessee, LLC in Arizona. And then if
+you bought a property in Florida, we would have to register it because again, that's where we're doing the business
+because that's where we have the ownership. However, if you were doing a deal like that you would most likely from
+an asset protection standpoint, understand that it's not in the investors best interest to have all 10 or 20 properties in
+one LLC. Because if something were to happen to one of those properties, you're exposing the other 19 Or the other
+nine or whatever. And so you would typically have at that point, you would create sub sub LLCs. The question is just
+how many and that's a discussion between you and your attorney. You know, is it one LLC per property? Maybe,
+maybe not, is it three LLC is where you stick three properties in each LLC. That's a discussion how many
+
+© Russ 54:44
+
+but they're effectively me Scott, just for a visual, they're effectively like firewalls on a cruise ship, you know, in other
+words, you know, you're going to have a certain amount of water you're willing to take on, you get a portfolio of 20
+properties, okay? If if one of them catches fire, and I'm mixing my metaphors I'm willing to let the equity burn for
+three and then it's going to stop at that LLC. And they would have to penetrate the next LLC in order to get more.
+That's a business decision not a legal decision. And it's a it's a, it’s a risk versus reward. Obviously, from a risk
+mitigation standpoint, the bullet proof thing is to have each one in its own LLC, and then have a third entity that
+equity strips, so all the equity in any property, or is it that one entity is holding liens against all the equity and all the
+properties. So now the only claim that they could possibly get would be the flow of income under one property, but
+that structure is going to be expensive. Now, if there are a bunch of little green houses, it may not make sense, right?
+If there are a bunch of 200 unit apartment buildings, it might make a lot of sense, because you have economies of
+
+scale. Those are business decisions.
+
+© Mauricio 55:52
+
+But the reward and the only reward you get with That's exactly right. It's a risk reward analysis. And the only reward
+you get is the cost savings of not having to put each and every single LLC age property in the each LLC, Tennessee
+happens to be expensive. It's $300 per LLC. So if you've got 10, that’s $3,000. So the reward is to save the $3,000 the
+
+risk is
+
+© Russ 56:15
+
+all the other stuff that would happen, right? Yeah, | mean, for what you save on the entity structure, you might be
+able to just purchase gobs of insurance and feel comfortable with that. And that might end up being a better deal.
+So you know, as much as lawyers love entities, they aren't the end all be all. And your first line of defense, as we
+talked about in the secrets of successful syndication is a good portfolio of insurance. And you have to get good at
+both of those things. And of course, the ultimate thing is do good deals with good people and do good business. And
+you'll mitigate a lot of your risk. Not all of it, but a lot of it. Okay, so | think that we're at the top, we're going to call
+that a wrap. | don't have any other questions in queue, if you want to make sure that your questions get answered. In
+other words, if you're leaving here, frustrated because something came up and you didn't get a chance to ask it, just
+
+make sure you submit them ahead of time, because if you submit them ahead of time, we're going to answer them
+Jo
+
+little bit of yield, where you're probably going to get none while you're waiting for me to find a home for your cash.
+Right so their strategy so you know, as your sophistication grows in your awareness Have these vehicles grows, you'll
+you'll begin to learn different ways how do you manage large sums of cash, you know, chief financial officers that
+corporations have to figure this out all the time, because they're sitting on gobs of cash. And they have to figure out
+how to mitigate banking risk. And they have to learn how to mitigate currency risk, and they have to learn how to
+keep that money, safe liquid, but also, you know, generating some form of a yield. And you know, most of us don't
+think that way, because we deal in sums that are too small. But as you get bigger, that’s actually an additional
+service you can provide for investors and a blind type font, if you choose it, you may decide, Hey, that’s not worth my
+time. So that's a business decision, but it is an option for you. Anyway, okay. Any other questions on this topic? Before
+
+we open it
+
+Scott Florida 20:46
+
+up? Just quick follow up. | John, in a recent call recommended the who not how book, which | read. And so my
+question is, who is the kind of person | go to for something like that? Is that just you go to your banker? Or do you go
+to an Edward Jones guy? Or who do you talk to, to kind of carry that? Or help you figure out how to carry it during
+that time period?
+
+Russ 21:12
+
+Well, | mean, it's just a matter of being aware of what the options are out there. So sure, yeah, you may, you may
+have a relationship with people in the bond market, you know, brokers that deal in those types of things. | don't think
+you're going to be going directly to the Treasury, you might be able to candidly, | know people who do it, I've not
+
+done it. But | know it’s possible. Our friend Simon black, was holding, the reason this came up is because | watched
+he and Peter Schiff have a little bit of a debate on one of the summits. And, you know, we were all kind of making fun
+of anybody that was sitting in the dollar. But But, but Simon felt like a 30 day exposure to the dollar in order to get a
+little bit of yield, rather have the counterparty risk be the US government in the printing press than a bank, and the
+FDIC. And that made a lot of sense to me. So | thought to myself, hmm, if | ever had a chance, where | was sitting on
+millions of dollars of cash, and | was just keeping it is dry powder waiting for an opportunity, | probably would look
+into that. So when you get to that point, you know, we can throw it out in the ecosystem? I'm sure we'll find a quick
+answer. But, you know, right now, | don't, I'm guessing you don't have that problem. So but just understand it's
+definitely out there. You know, | don't want to sit here and blow smoke and say, you know, I've done it, or | know how
+to do it at a tactical level. But | know strategically, it's certainly available to do it's not complicated. And we could get
+the details when when you're ready to do that. Okay. All right. So let's move on. So John has a question here about
+sub syndication. So John, why don't you unmute yourself, and let's put you up and hear your question.
+
+22:48
+
+Amory, so how are you? John? How are ya? I'm fabulous. Thanks for your time today. Hey, Scott, I'm glad you liked
+that book. Um, Mauricio, | like what rust just brought up again, the idea when you're starting out to actually learn by
+getting involved either passively, or through sub syndication? | actually have a call scheduled tomorrow with a
+gentleman | met at the event over the weekend regarding possibly working as a sub syndicator. So from the
+perspective of a sub syndicator, what do | legally have to be aware of? Both not to do anything stupid to get myself
+in, in trouble, unintentionally, and also, to protect myself not to, you know, in general sense not to put anything on
+anyone else, but to protect myself from the syndicator who don't know who they are and what they're about, you
+know, so those two aspects if you could address that, please. Thank you.
+an employee, | don't know if it'll fish, where you're working for the sponsor actua oing something, I'm doing all the
+ployee, | don't k if it'll fish, where you’ king for the sp tually doing thing, I'm doing all th
+
+excels, analysis, whatever, that's okay. Right. If it, you know, such a thing can be worked out.
+
+Mauricio 43:55
+
+That's a completely different thing we're talking about. But in general, you would have to number one, you cannot
+get paid transaction based compensation. So you can't get compensated contingent upon people that you bring in
+to the deal, investing in the deal. And you would have to, to the extent you're bringing in capital to the deal, and
+you're working as an employee or as a whatever, you would have to be performing substantial duties, whatever that
+means. And your primary role needs to be doing that substantial duties, your primary role can't be bringing in the
+money. So if you're a legitimate employee, and you're getting a salary, and you're bringing in people and that salary
+is not based on how many people you bring in, meaning, if you bring in zero people, you bring all the people it
+doesn't matter, you're gonna get paid the same thing because you're actually getting paid to do something,
+
+whatever that something is, then that's fine. But that's that's a completely different thing.
+
+Russ 44:49
+
+And | think the other thing that everybody needs to be mindful of, of what you're really trying to accomplish, and if
+you're building a business every time you refer your investors to somebody else, you're really for your customers to
+somebody else, and you have to decide how much control you have in those relationships, how much you trust the
+person on the other side. Some of that is just going to be business and friendly. And you know, at the end of the day,
+investors probably are going to find people out there any way. So if you can get in on the action, maybe that’s okay.
+But, you know, you just just need to think about all those things, you know, you may have an agreement with
+somebody where, hey, | bring the investor, but you're not allowed to solicit them for additional investments, if they
+want to invest with you, again, they need to do it through me, something like that, right. But again, | don't like the
+idea of doing some of that from a business perspective, because an investor finds out that you have blocked them
+from doing something they want to do, then all sudden, you have positioned yourself as somebody that is using them
+for a payday instead of helping them accomplish their goals. | think your positioning always wants to be 100%,
+about helping them achieve their goals. And if you do that, from time to time, it isn't going to be in your self interest.
+And that's a good habit to get into. Because ultimately, that’s what your fiduciary responsibility says is the way you
+need to be thinking at all times. Now, if you find yourself continually doing things for other people and never getting
+paid, then just stop doing those things, right, and go do other things that you actually get paid to do. But if you are
+going to do something, and you're going to get paid, your compensation still has to be subordinated to what's in
+their best interest. That's the safest way to play this game. Okay, now, Scott, you had questions about moving a
+portfolio, one state to another multiple states. And | think | have one other comment on that, actually. Because that
+back and forth with John, | think was good. And Maria, this is a point of clarification for you. Let's say I'm located in
+Florida. And let's say that the deal is located in Texas. And let's say the investor is located in Indiana. All right, so now
+| got three different potential jurisdictions plus the Fed. Now | understand from the exemption point of view, the Fed
+exemption overrides the states, correct me if I'm wrong, but what are there any other considerations about these
+multi state deals in which jurisdiction rules where you are, where the investor is where the property is, if it's something
+that doesn't fit underneath a federal exemption?
+
+Mauricio 47:24
+
+The investment advisory rules will depend on the state that you're physically located, because that’s where you're
+providing the supposedly providing the recommendations and the advice. And so if you're in Florida, then as John
+mentioned, | would go check the Florida investment advisory statutes to see what the exemption requirements are.
+From an entity
+Oo
+O)
+
+JO
+
+Russ 28:53
+Let's go ahead,
+
+28:56
+
+it's exactly about what we're already talking about. So as a sub syndicator, | would get to two more points. One, |
+would go to someone like you and hire you to put together the same paperwork as if | were the main syndicator I'm
+doing this same exact thing. So | still need to do all of that correct?
+
+Mauricio 29:24
+
+Yes, you're hiring me not just to do the paperwork, you're hiring me to make sure that you're raising the capital in
+compliance with federal securities laws. And so this one has a little bit more of a wrinkle to it because we're
+obviously buying securities and that whole world but yes, it’s the same exact the end product for you your
+deliverables if you want to think about it other than obviously the the advice and making sure you're not stepping on
+any landmines, the deliverable, you'll still end up with a PPM most likely a business plan, an operating agreement, a
+subscription of the same documentation. Now there are some a lot of people do shortcuts which I'm okay with. So
+for example, you know, the underlying sindicato probably has a pretty robust business plan, right? An executive
+summary already prepared. So you have two options, you can take that business with their permission, you can take
+that business plan and basically rebrand it as your own as if you wrote it. Or you could just attach it, you know, here's
+maybe a little introductory page to kind of explain what's going on here. But then basically say, Hey, here's, here's
+the business plan that the that the operator has written, and it kind of explains all the stuff there anyway. So I've
+seen that done before. But you're gonna have your own PPM your own, obviously, everybody's coming into your LLC.
+So you're gonna have your own operating agreement, your own subscription agreement, your own questionnaire,
+
+your own everything.
+
+30:40
+
+Okay, so now I'm going to put a wrinkle on that, how is what you just said, Give front, then simply raising money,
+which you brought up Saturday saying, that is something that is now going to be able to be done if | understood it
+correctly. So that to me says, well, the whole hullabaloo that we just talked about, would be necessary, if that goes
+
+through. So if you can address that difference, please?
+
+Mauricio 31:13
+
+| think that is | think what you're referring to is the proposed rule that came out recently, that would allow you to get
+compensated from a syndicator for bringing in a bunch of money. Yes, which is a far away from being passed. But at
+some point, let’s just assume that that happens. And for those of you who weren't there, or haven't seen the
+recording, there's a new proposal, essentially, that will allow you to basically get referral fees, you'll be able to,
+instead of doing a sub syndication, where you raise capital, on your own deal, and then invested in somebody else,
+you may just say, hey, somebody else, I've got 10 investors sitting over here, I'm going to send them your way. And
+they're going to put in a million dollars, and | just want you to pay me a couple 100 grand, or 100, grand, whatever
+you whatever negotiation you want to do, like a couple 100, grand, right, whatever, a couple 100 grand. So yes, that
+would definitely affect there's a lot of people who do the sub syndication and the funded funds for the purpose of |
+want to say getting around, but for a way for them to get compensated for bringing in people, that's one of the way
+can mess around with a blind fund, | can't do any of that, right? I'm literally betting on the jockey, | just have to have
+faith that Russ knows what he's doing. And then I'm going to entrust my money with Ross, he’s going to go out there
+and do it. So structurally speaking, actually, structurally speaking, it may be very similar to a project specific, but
+you're not going to have specifics, you're literally going to have what we call a fund criteria of what what are the
+predetermined criteria that you're going to tell the investors you're going to do. So for example, you're going to invest
+in real estate, that's one parameter, right, you're not going to go take the money and invest in cryptocurrency, you're
+going to invest in us real estate, maybe that’s a parameter, you know, and you can kind of go, you can dig down, dig
+deep, as much as you want. But you want to give yourself the flexibility to be able to do what you want to do. But
+you're just giving them parameters. And so your business plan looks a lot simpler, because you're just kind of given
+them the idea and the game plan with it. And you're gonna give some examples and all that stuff. But but but really,
+you're just you're just talking about your really your investment thesis, one of the | will talk about one, let me just
+touch on real quick, | don't want to take the entire hour to talk about this, although we probably could. There are
+some unique things that pop up in a blind fund versus a project specific and probably the number one issue that
+comes up is what happens if | raise all the money, which is great, it’s nice to have all the money in a bank account
+ready to deploy as soon as you identify something that you like. But what if it takes you a little while to find
+something? What if it takes you six months, maybe takes you a year to find a property now that money sitting in a
+bank account earning zero interest, and the investors are saying, wait a minute, I've got my money tied up with you,
+you're not providing me with a return? So you've got to address that. And there's many ways you can do it. Probably
+the most popular one | think is is not taking everybody's all of the money up front. So you sort of get a commitment.
+Yes, you want to invest $100,000. Great. I'll just take $10,000. Now I'll take a 10% deposit. And then when | find
+something, I'll ask what the other 90% that way, I'm not really on the hook for either | don't have a return for you. But
+it's only 10% of your money. It's not a big deal. But we want some incentive, right, we don't want to wait six months
+and then say, okay, Johnny, your other 90% is due and Johnny changes his or his mind in this case and doesn't want
+to give you the money. So we kind of throw in some disincentives for you to do that, which is primarily you're going to
+waive your 10% If you don't come up with our other 90% Within five days or 10 days or whatever we come up with.
+So there's little little nuances like that, that we want to be aware of, but we can certainly go through that, you know,
+on ad one on one or something but there are some things that you want to consider but from a legal standpoint, just
+take it back up again and wrap it up. The same rules apply. You're still looking for an exemption most likely 506 B,
+
+maybe five or six C and we go through the exact same rules
+
+Russ 10:01
+
+So that's that's the legal side, Aleksey, do you have a clarifying question or additional comment?
+
+Alex Petkas 10:08
+Not immediately. Okay.
+
+Russ 10:10
+
+So that that kind of covers the legal structurally a syndication is a syndication. So it's really a matter of what you're
+selling and how much risk you're taking. So we talked a little bit about the risk side of things. One of the challenges
+that you would have, from a practical standpoint is, if you were to go get some insurance, you know, insurance in
+particular errors and omissions insurance, as a manager, they're gonna want to know, what's your experience, the
+odds of you making a mistake as a newbie are high, they might not insure you at all, or they might charge you a
+huge premium. So that's one of the negatives to trying to start out with a blind fund. Typically, we think it's smarter
+to start with a project specific fund. In fact, we think it's smartest to start with a sub syndication, or investing your
+
+own money with a proven operator while you're learning the ropes, building some resume and getting some success,
+
